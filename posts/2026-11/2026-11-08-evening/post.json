@@ -1,0 +1,132 @@
+{
+  "sources": "Business Standard, The Week/PTI, Goodreturns, 5paisa, Kotak Neo, IANS (Nov 5–8, 2026)",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Samvat 2083 · Muhurat Trading",
+      "title": "Samvat 2083 opens *flat* after a losing year",
+      "stat": "−4%",
+      "stat_label": "Sensex return in Samvat 2082",
+      "stat_sub": "Smallcap 100 +4.2% · Midcap 100 +2.1%",
+      "compare": [
+        {
+          "k": "Nifty 50 · Muhurat",
+          "v": "−0.18%",
+          "tone": "dn"
+        },
+        {
+          "k": "Midcap 100 · Muhurat",
+          "v": "+0.13%",
+          "tone": "up"
+        }
+      ]
+    },
+    {
+      "type": "facts",
+      "kicker": "What happened",
+      "title": "An early *rally faded*",
+      "stats": [
+        {
+          "k": "Sensex · Nov 8",
+          "v": "80,999",
+          "d": "▼ 28.62 pts (−0.04%)",
+          "tone": "dn"
+        },
+        {
+          "k": "Nifty 50 · Nov 8",
+          "v": "24,986",
+          "d": "▼ 43.95 pts (−0.18%)",
+          "tone": "dn"
+        },
+        {
+          "k": "Sensex · day's high",
+          "v": "81,442",
+          "d": "+414 pts at the peak",
+          "tone": "or"
+        },
+        {
+          "k": "Nifty Midcap 100",
+          "v": "+0.13%",
+          "d": "Smallcap 100 up ~1%",
+          "tone": "up"
+        }
+      ],
+      "points": [
+        "**Sun Pharma and Tata Steel** led gains; **M&M, Infosys and IndiGo** dragged",
+        "The Nifty slipped back **below 25,000** after a positive start",
+        "The one-hour session opened **Samvat 2083**, the new Hindu financial year"
+      ]
+    },
+    {
+      "type": "chart",
+      "kicker": "Why it matters",
+      "title": "Samvat 2082: *small caps* won",
+      "caption": "Returns in Samvat 2082 (Diwali 2025 → Diwali 2026), %",
+      "bars": [
+        {
+          "name": "Sensex",
+          "v": -4.1
+        },
+        {
+          "name": "Nifty 50",
+          "v": -3.4
+        },
+        {
+          "name": "Midcap 100",
+          "v": 2.1,
+          "hl": true
+        },
+        {
+          "name": "Smallcap 100",
+          "v": 4.2,
+          "hl": true
+        }
+      ],
+      "why": [
+        {
+          "h": "Record FPI selling",
+          "t": "Foreigners sold more than in any recent Samvat"
+        },
+        {
+          "h": "DIIs held the line",
+          "t": "Record domestic buying cushioned the fall"
+        },
+        {
+          "h": "IPO boom",
+          "t": "A record ₹2.23 lakh cr raised via 375 IPOs"
+        },
+        {
+          "h": "Oil shock",
+          "t": "West Asia tensions kept crude near $100"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "kicker": "Market impact",
+      "title": "What moved, what to *watch*",
+      "actual": [
+        "**Early pop faded:** Sensex rose 414 pts, then ended 28 pts lower",
+        "**Pharma, metals led:** Sun Pharma, Tata Steel gained",
+        "**Broader market firmer:** Smallcap 100 up ~1%"
+      ],
+      "watch": [
+        "**Monday's session:** does the 7-day rally resume?",
+        "**FPI flows** after a year of record selling",
+        "**Crude oil and US-Iran tensions**"
+      ],
+      "note": "Smallcap 100 trades at 34x earnings vs 21x for the Nifty 50. Muhurat sessions are short and symbolic."
+    },
+    {
+      "type": "takeaways",
+      "kicker": "Key takeaways",
+      "title": "What investors should *know*",
+      "points": [
+        "Samvat 2083 opened **flat**: an early rally faded and the Nifty closed below 25,000",
+        "In Samvat 2082, **small and mid caps beat** the Sensex and Nifty, which fell 3–4%",
+        "**Record DII buying** offset record FPI selling; watch foreign flows and crude"
+      ],
+      "cta": "Follow for daily market news that matters"
+    }
+  ]
+}

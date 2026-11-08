@@ -1,0 +1,129 @@
+{
+  "cycle": "2026-11-08 evening",
+  "headline": "Samvat 2083 opens flat in Muhurat trading (Sensex 80,999.40, Nifty 24,986.40) after a Samvat 2082 in which small and midcaps beat the benchmarks",
+  "original_publication": [
+    {
+      "source": "Goodreturns (live blog)",
+      "time": "2026-11-08 10:55 IST, updated 15:54 IST",
+      "url": "https://www.goodreturns.in/news/diwali-muhurat-trading-2026-live-special-trading-session-live-stock-market-live-sensex-nifty-stocks-1545951.html"
+    },
+    {
+      "source": "The Week (PTI)",
+      "time": "2026-11-08 16:58 IST",
+      "url": "https://www.theweek.in/news/biz-tech/2026/11/08/muhurat-trading-2026-sensex-nifty-end-lower-despite-positive-start-check-gainers-and-losers-here.html"
+    },
+    {
+      "source": "5paisa",
+      "time": "2026-11-08 15:53 IST",
+      "url": "https://www.5paisa.com/blog/muhurat-trading-2026-nifty-slips-below-25000-sensex-ends-flat-smallcap-index-gains-1-percent"
+    },
+    {
+      "source": "Kotak Neo",
+      "time": "2026-11-08 17:03 IST",
+      "url": "https://www.kotakneo.com/news/market-news/muhurat-trading-2026-highlights-sensex-nifty-samvat-2083/"
+    },
+    {
+      "source": "Business Standard (Samvat 2083 outlook)",
+      "time": "2026-11-08 13:18 IST, updated 16:45 IST",
+      "url": "https://business-standard.com/markets/stock-market-news/markets-stock-market-samvat-2083-outlook-indian-equities-oil-prices-fpi-flows-volatility-126110800259_1.html"
+    },
+    {
+      "source": "Business Standard (record FII selling / DII buying)",
+      "time": "2026-11-06 20:08 IST",
+      "url": "https://www.business-standard.com/amp/markets/news/record-fii-selling-of-4-55-trillion-meets-record-dii-buying-in-samvat-2082-126110601834_1.html"
+    },
+    {
+      "source": "Business Standard (FPI outflows worst in 17 Samvats)",
+      "time": "2026-11-05 11:55 IST",
+      "url": "https://www.business-standard.com/markets/news/3-trillion-fpi-outflows-samvat-2082-set-for-worst-selling-in-17-samvats-126110500670_1.html"
+    },
+    {
+      "source": "Upstox (Midcap/Smallcap Samvat 2082)",
+      "time": "2026-11-07 00:20 IST",
+      "url": "https://upstox.com/news/market-news/trading/nifty-midcap-100-and-smallcap-100-deliver-steady-returns-in-samvat-2082-what-lies-ahead-for-samvat-2083/article-203146/"
+    },
+    {
+      "source": "IANS via The Hans India (IPO record)",
+      "time": "2026-11-07 09:49 IST",
+      "url": "https://www.thehansindia.com/business/market-compass/samvat-2082-sees-india-ipo-fundraising-hit-record-rs-223-lakh-crore-1140080"
+    },
+    {
+      "source": "Business Standard (Muhurat 2025 close, base for Samvat 2082 return)",
+      "time": "2025-10-21",
+      "url": "https://www.business-standard.com/amp/markets/news/sensex-nifty-muhurat-trading-samvat-2082-market-outlook-125102100615_1.html"
+    }
+  ],
+  "official_announcement_url": null,
+  "verification_timestamp": "2026-11-08T18:55:00+05:30",
+  "importance_score": 84,
+  "shortlist": [
+    {
+      "story": "Muhurat trading: Samvat 2083 opens flat; Samvat 2082 scorecard (small caps beat benchmarks, record FPI selling)",
+      "score": 84
+    },
+    {
+      "story": "Samvat 2082 IPO fundraising record Rs 2.23 lakh crore (375 IPOs)",
+      "score": 70,
+      "rejected": "Published Nov 6-7; folded into main story as context"
+    },
+    {
+      "story": "Wall Street ends worst week since June (Nov 6)",
+      "score": 66,
+      "rejected": "2 days old; weaker India relevance than today's session"
+    },
+    {
+      "story": "Brent near $98 / US-Iran tensions",
+      "score": 62,
+      "rejected": "No fresh weekend development; used as watch item"
+    }
+  ],
+  "selection_reason": "Only live Indian market event today (Sunday Muhurat session, closed ~3:30 PM IST), verified across 4 sources, combined with a verified Samvat 2082 scorecard. Follows the afternoon Muhurat preview post with genuinely new data (actual close) and a different angle (broad market vs benchmarks, FPI vs DII).",
+  "key_facts": {
+    "sensex_close_nov8": "80,999.40, -28.62 (-0.04%) [The Week/PTI, Goodreturns, 5paisa, Kotak Neo]",
+    "nifty_close_nov8": "24,986.40, -43.95 (-0.18%) [The Week/PTI, Goodreturns, 5paisa, Kotak Neo]",
+    "sensex_intraday_high": "81,442.11, +414.09 [The Week/PTI, Goodreturns]",
+    "midcap100_nov8": "+0.13% [5paisa, Kotak Neo]",
+    "smallcap100_nov8": "+1.01% [5paisa] / +0.94% [Kotak Neo] -> shown as ~1%",
+    "gainers_losers": "Gainers Sun Pharma, Tata Steel; laggards M&M, IndiGo, Infosys [The Week/PTI, Goodreturns]",
+    "samvat2082_sensex": "-4.06% computed Muhurat-to-Muhurat (84,426.34 -> 80,999.40) [BS 2025 close + 4 sources for 2026 close]; BS reports -4%",
+    "samvat2082_nifty": "-3.41% computed (25,868.60 -> 24,986.40) [BS, Upstox 2025 close]; BS reports -3.1%, IndiaIPO ~-3.24%",
+    "samvat2082_midcap100": "+2.1% [Business Standard, Upstox]",
+    "samvat2082_smallcap100": "+4.2% [Business Standard], ~4% [Upstox]",
+    "fpi_dii": "Record FPI selling and record DII buying in Samvat 2082 [Business Standard Nov 5, Nov 6, Nov 8] - amounts not shown due to conflicting figures",
+    "ipo_record": "Rs 2.23 lakh crore via 375 IPOs (131 mainboard, 244 SME) [IANS via Hans India, Punjab Kesari, SocialNews]",
+    "valuations": "Smallcap 100 at 34x, Nifty 50 at 21x [Business Standard Nov 8]",
+    "crude": "Brent $98.3 Friday [BS]; $96.82 Nov 5 [PTI]"
+  },
+  "discrepancies_resolved": [
+    "Samvat 2082 Nifty return: BS -3.1%, IndiaIPO ~-3.24%, computed Muhurat-to-Muhurat -3.41%; Mint (via stockpil) -7% and Sensex -8% (different basis). Bars use computed Muhurat-to-Muhurat values; text says 'about 3-4%'.",
+    "FPI Samvat 2082 outflow: BS gave Rs 4.55 trn (Nov 6), Rs 3.01 trn (Nov 5) and Rs 2.77 trn (same Nov 6 article). Amount omitted; only 'record' (agreed by all) used.",
+    "DII Rs 8.55 trn single-source - amount omitted.",
+    "Smallcap 100 on Nov 8: +1.01% (5paisa) vs +0.94% (Kotak Neo) - shown as ~1%.",
+    "Bank Nifty: -0.40% (Goodreturns) vs -0.27% (Kotak Neo) - omitted.",
+    "Breadth 3,136/913 and FII Rs 13,749.82 cr Friday single-source - omitted."
+  ],
+  "seo_keywords": {
+    "primary": "Muhurat trading 2026",
+    "secondary": [
+      "Samvat 2083",
+      "Samvat 2082 returns",
+      "Sensex today",
+      "Nifty 50 below 25000",
+      "small cap stocks",
+      "Nifty Smallcap 100",
+      "FPI selling",
+      "DII buying",
+      "IPO record",
+      "Diwali stock market"
+    ]
+  },
+  "alt_text": [
+    "Fin Ticks cover: Samvat 2083 opens flat after a losing year; Sensex -4% in Samvat 2082 while Smallcap 100 +4.2%; Nifty -0.18% and Midcap 100 +0.13% in Muhurat trading.",
+    "Muhurat trading Nov 8, 2026: Sensex 80,999 (-0.04%), Nifty 50 24,986 (-0.18%), Sensex day's high 81,442, Midcap 100 +0.13%.",
+    "Bar chart of Samvat 2082 returns: Sensex -4.1%, Nifty 50 -3.4%, Midcap 100 +2.1%, Smallcap 100 +4.2%; drivers: record FPI selling, record DII buying, IPO boom, oil shock.",
+    "Market impact: early rally faded, pharma and metals led, small caps firmer; watch Monday's session, FPI flows, crude and US-Iran tensions.",
+    "Key takeaways on Samvat 2083's flat start and Samvat 2082's small-cap outperformance, with a follow call to action for @finticksmalayalam."
+  ],
+  "status": "rendered",
+  "caption": "Muhurat trading 2026: Sensex and Nifty open Samvat 2083 flat 🪔\n\nIn today's one-hour Diwali Muhurat trading session, the Sensex slipped 28.62 points to 80,999.40 and the Nifty 50 fell 43.95 points to 24,986.40, back below 25,000. The Sensex had been up 414 points at its peak before the early rally faded. Sun Pharma and Tata Steel led the gains, while M&M, Infosys and IndiGo dragged.\n\nWhy it matters: Samvat 2082 was a losing year for the big indices. The Sensex fell about 4% and the Nifty about 3% from Diwali to Diwali, while the Nifty Midcap 100 gained 2.1% and the Smallcap 100 gained 4.2%. Record selling by foreign investors (FPIs) was offset by record buying from domestic institutions (DIIs), and a record ₹2.23 lakh crore was raised through 375 IPOs.\n\nFor Samvat 2083, the numbers to watch are FPI flows, crude oil and US-Iran tensions. Small caps already trade at much richer valuations than the Nifty 50.\n\nWill small caps beat the Sensex again in Samvat 2083, or is it the large caps' turn? Tell us in the comments 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: Business Standard, PTI, IANS, Goodreturns, 5paisa, Kotak Neo. Not investment advice.\n\n#StockMarketIndia #Sensex #MuhuratTrading #Samvat2083 #SmallCapStocks\n"
+}
