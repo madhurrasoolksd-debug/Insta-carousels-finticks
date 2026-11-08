@@ -1,0 +1,142 @@
+{
+  "sources": "PTI via ThePrint, Business Standard, DSIJ (Nov 6–8, 2026)",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Samvat 2083 · Muhurat Trading",
+      "title": "Wall Street crashed. *Dalal Street* rallied.",
+      "stat": "+10.6%",
+      "stat_label": "Sensex in 7 straight sessions",
+      "stat_sub": "Nifty +10.3% · back above 25,000",
+      "compare": [
+        {
+          "k": "Nasdaq · Nov 5",
+          "v": "−5.52%",
+          "tone": "dn"
+        },
+        {
+          "k": "Sensex · Nov 5",
+          "v": "+2.60%",
+          "tone": "up"
+        }
+      ]
+    },
+    {
+      "type": "facts",
+      "kicker": "What happened",
+      "title": "A 7-day winning *streak*",
+      "stats": [
+        {
+          "k": "Sensex · Nov 6",
+          "v": "81,028",
+          "d": "▲ 1,718 pts (+2.17%)"
+        },
+        {
+          "k": "Nifty 50 · Nov 6",
+          "v": "25,030",
+          "d": "▲ 494 pts (+2.01%)"
+        },
+        {
+          "k": "Sensex · 7 sessions",
+          "v": "+7,782",
+          "d": "points (+10.62%)",
+          "tone": "or"
+        },
+        {
+          "k": "Nifty · 7 sessions",
+          "v": "+2,332",
+          "d": "points (+10.27%)",
+          "tone": "or"
+        }
+      ],
+      "points": [
+        "**ICICI Bank and HDFC Bank** added the most points to the Nifty on Friday",
+        "**Mahindra & Mahindra jumped 6%** after a 25% rise in Q2 profit to ₹4,588 crore",
+        "Samvat 2083 opens with a one-hour **Muhurat session on Nov 8**"
+      ]
+    },
+    {
+      "type": "chart",
+      "kicker": "Why it matters",
+      "title": "India *decoupled*",
+      "caption": "Index moves on Thursday, Nov 5, 2026",
+      "bars": [
+        {
+          "name": "Sensex",
+          "v": 2.6,
+          "hl": true
+        },
+        {
+          "name": "Nifty 50",
+          "v": 2.4,
+          "hl": true
+        },
+        {
+          "name": "Dow",
+          "v": -3.44
+        },
+        {
+          "name": "S&P 500",
+          "v": -4.36
+        },
+        {
+          "name": "Nasdaq",
+          "v": -5.52
+        },
+        {
+          "name": "Nikkei",
+          "v": -5.96
+        },
+        {
+          "name": "Kospi",
+          "v": -6.02
+        }
+      ],
+      "why": [
+        {
+          "h": "Foreign money in",
+          "t": "FIIs bought ₹14,975 cr of shares on Thursday alone"
+        },
+        {
+          "h": "Strong Q2 results",
+          "t": "Banks and NBFCs led earnings support"
+        },
+        {
+          "h": "Crude eased",
+          "t": "Brent slipped 1.5% to $96.82 a barrel"
+        },
+        {
+          "h": "Firmer rupee",
+          "t": "A stronger rupee added to the buying"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "kicker": "Market impact",
+      "title": "Big rally, *narrow* base",
+      "actual": [
+        "**Banks led:** Nifty Financial Services +2.57%, Nifty Bank +2.27% on Nov 6",
+        "**Breadth was weak:** 1,439 NSE stocks rose, 2,141 fell",
+        "**Small caps lagged:** Nifty Smallcap 100 −0.82%"
+      ],
+      "watch": [
+        "**Muhurat session** (Nov 8, 2:20–3:30 PM) and Monday's open",
+        "**Crude near $100** — West Asia tanker attacks keep risk alive",
+        "**Can FII buying last** with valuations already stretched?"
+      ],
+      "note": "History: Sensex and Nifty rose in 8 of the last 10 Muhurat sessions (2016–25). Past patterns don't guarantee gains."
+    },
+    {
+      "type": "takeaways",
+      "kicker": "Key takeaways",
+      "title": "What investors should *know*",
+      "points": [
+        "Indian stocks rose **10%+ in 7 sessions** even as US and Asian markets crashed",
+        "The rally is **bank-led and large-cap heavy** — most small stocks fell on Friday",
+        "**FII flows and crude oil** are the two numbers to watch in Samvat 2083"
+      ],
+      "cta": "Follow for daily market news that matters"
+    }
+  ]
+}
