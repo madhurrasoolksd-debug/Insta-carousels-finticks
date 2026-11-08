@@ -13,7 +13,7 @@ Fixed facts:
 1. Repo is already cloned (see the scheduled task prompt). `git pull` first so the history is current.
 2. Check `python3 -c "import playwright, PIL"`. If missing: `pip install --break-system-packages playwright pillow && python3 -m playwright install chromium`.
 3. Read `log/history.json` (all past posts), `log/learnings.md` (if present) and the last 3 `posts/*/record.json`.
-4. Post folder for this run: `posts/<YYYY-MM-DD>-<cycle>/` where cycle is `morning`, `afternoon` or `evening`. **If that folder already has a record.json with status `published`, stop: this cycle already ran.** Never publish twice for one cycle.
+4. Post folder for this run: `posts/<YYYY-MM>/<YYYY-MM-DD>-<cycle>/` (one sub-folder per month keeps each directory well under GitHub's 3,000-entry limit) where cycle is `morning`, `afternoon` or `evening`. **If that folder already has a record.json with status `published`, stop: this cycle already ran.** Never publish twice for one cycle.
 
 ## 1. Research (aim for 10–20 searches)
 Cycle focus (still pick the most important story overall):
