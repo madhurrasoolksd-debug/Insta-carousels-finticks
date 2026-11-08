@@ -1,0 +1,90 @@
+{
+  "cycle": "2026-11-08 afternoon (test run)",
+  "headline": "Sensex up 10.62% in 7 sessions, defying Wall Street sell-off, ahead of Samvat 2083 Muhurat trading",
+  "original_publication": [
+    {
+      "source": "PTI via ThePrint",
+      "time": "2026-11-06 17:46 IST",
+      "url": "https://theprint.in/economy/d-street-festive-rally-defies-global-rout-sensex-jumps-1718-points-nifty-hits-9-month-high/3092463/"
+    },
+    {
+      "source": "DSIJ",
+      "time": "2026-11-06 16:00 IST",
+      "url": "https://insights.dsij.in/dsijarticledetail/nifty-50-reclaims-25000-sensex-surges-over-1700-points-on-7th-day-of-gains-60349"
+    },
+    {
+      "source": "Business Standard",
+      "time": "2026-11-08 07:13 IST",
+      "url": "https://www.business-standard.com/amp/markets/news/will-bulls-stay-in-control-during-muhurat-trading-experts-decode-outlook-126110600925_1.html"
+    },
+    {
+      "source": "Angel One (Muhurat timings)",
+      "time": "2026-11-08 08:30 IST",
+      "url": "https://www.angelone.in/news/market-updates/is-stock-market-nse-and-bse-open-today-november-8-2026"
+    }
+  ],
+  "official_announcement_url": null,
+  "verification_timestamp": "2026-11-08T14:20:00+05:30",
+  "importance_score": 88,
+  "shortlist": [
+    {
+      "story": "Sensex/Nifty 7-session rally vs global rout, into Muhurat trading",
+      "score": 88
+    },
+    {
+      "story": "Nasdaq -5.5%, chip stocks -11% after US midterms (Nov 5)",
+      "score": 74,
+      "rejected": "3 days old; India angle stronger"
+    },
+    {
+      "story": "OpenAI raises $11B at $1.25T valuation",
+      "score": 58,
+      "rejected": "low relevance to Indian investors"
+    }
+  ],
+  "selection_reason": "Biggest Indian market move in months, verified across 3 sources, tied to today's Muhurat session; no overlap with recent posts (UPI MDR, US 10Y yield, IPO week, India-China exports).",
+  "key_facts": {
+    "sensex_close_nov6": "81,028.02, +1,718.01 (+2.17%) [PTI, DSIJ]",
+    "nifty_close_nov6": "25,030.35, +493.75 (+2.01%) [PTI, DSIJ, BS]",
+    "seven_session_gain": "Sensex +7,781.99 (+10.62%), Nifty +2,331.5 (+10.27%) [PTI, BS]",
+    "nov5_moves": "Sensex +2.60%, Nifty +2.40% [DSIJ]; Nasdaq -5.52%, S&P -4.36%, Dow -3.44%, Nikkei -5.96%, Kospi -6.02% [PTI]",
+    "fii_nov5": "Rs 14,974.68 crore net buy [PTI]",
+    "brent": "-1.50% to $96.82 [PTI]",
+    "sectors_nov6": "Nifty Fin Services +2.57%, Nifty Bank +2.27%; Smallcap 100 -0.82%; A/D 1,439/2,141 [DSIJ]",
+    "mm": "+6.15%, Q2 PAT +25% to Rs 4,587.88 cr [PTI]",
+    "muhurat": "Nov 8, pre-open 2:05-2:20, trading 2:20-3:30 PM IST, Samvat 2083 [Angel One, BS]",
+    "history": "Gains in 8 of 10 Muhurat sessions 2016-2025 [BS]"
+  },
+  "discrepancies_resolved": [
+    "The Week reported weekly gains of ~7%/5,336 pts and PTI ~8.8%/6,568 pts; weekly figure omitted, used 7-session figures confirmed by PTI and BS.",
+    "BS Muhurat preview gave Sensex close as 80,434.65; PTI and DSIJ both give 81,028.02 - used 81,028.",
+    "'Nine-month high' claim internally inconsistent in PTI copy - not used."
+  ],
+  "seo_keywords": {
+    "primary": "Sensex Nifty rally",
+    "secondary": [
+      "Muhurat trading 2026",
+      "Samvat 2083",
+      "stock market today India",
+      "FII buying",
+      "Nifty 25000",
+      "Dalal Street",
+      "Nasdaq crash",
+      "bank stocks",
+      "Q2 results",
+      "Brent crude"
+    ]
+  },
+  "status": {
+    "carousel": "rendered",
+    "caption": "written",
+    "publishing": "published"
+  },
+  "published": {
+    "media_id": "18112073585182830",
+    "url": "https://www.instagram.com/p/DfeX-2_iEdU/",
+    "time": "2026-11-08T14:24:47+05:30",
+    "verified_via": "Windsor.ai instagram media_info"
+  },
+  "caption": "Sensex and Nifty rally 10% while Wall Street crashes 📈\n\nThe Sensex has gained 10.62% in 7 straight sessions, closing at 81,028 on Friday. The Nifty 50 is back above 25,000 at 25,030. On Thursday, as the Nasdaq fell 5.52%, the Sensex rose 2.60%.\n\nWhy it matters: Indian stocks decoupled from a global sell-off. The drivers were heavy FII buying (₹14,975 crore on Thursday alone), strong Q2 bank and NBFC earnings, Brent crude easing to $96.82, and a firmer rupee.\n\nThe catch: the rally is narrow. Banks led, but more NSE stocks fell than rose on Friday, and small caps slipped. Samvat 2083 opens with today's Muhurat trading session. Crude oil and FII flows are the numbers to watch.\n\nDo you think this Sensex and Nifty rally can hold through Samvat 2083? Tell us in the comments 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: PTI, Business Standard, DSIJ. Not investment advice.\n\n#StockMarketIndia #Sensex #Nifty50 #MuhuratTrading #DalalStreet\n"
+}
