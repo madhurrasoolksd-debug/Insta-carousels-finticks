@@ -64,12 +64,16 @@ Check with code: total ≤ 2,200 characters and `len(re.findall(r"#\w+", caption
 Write `posts/<folder>/record.json` like the example: cycle, headline, original_publication (source, time, url for each), official_announcement_url, verification_timestamp, importance_score, shortlist (with scores and rejection reasons), selection_reason, key_facts (each fact with its sources), discrepancies_resolved, seo_keywords {primary, secondary[]}, alt_text (one sentence per slide), status, caption.
 
 ## 7. Host the images
-`git add posts/<folder>` (jpgs, post.json, caption.txt, record.json), commit with message "Add <folder> carousel" and the trailer lines `Co-Authored-By: Claude <noreply@anthropic.com>`, then `git pull --rebase && git push`. Then curl each of the 5 raw URLs; all must return 200 `image/jpeg` (retry for up to 2 minutes — raw.githubusercontent can lag).
+First make the story card: `python3 pipeline/story.py posts/<folder>` → `posts/<folder>/story.jpg` (1080×1920, cover slide inside a "New post" frame). Look at it with the Read tool.
+`git add posts/<folder>` (jpgs incl. story.jpg, post.json, caption.txt, record.json), commit with message "Add <folder> carousel" and the trailer lines `Co-Authored-By: Claude <noreply@anthropic.com>`, then `git pull --rebase && git push`. Then curl each of the 5 raw URLs; all must return 200 `image/jpeg` (retry for up to 2 minutes — raw.githubusercontent can lag).
 
 ## 8. Publish (fully automatic)
 Call `execute_action` (connector `instagram`, action `create_carousel_post`, account `17841467826754821`) with `image_urls` = the 5 raw URLs in order 1→5 and `caption` = caption.txt.
 - On error: record it, wait ~60 s, and **before retrying** check with `get_data` (fields `media_id, media_permalink, media_caption, timestamp`, `date_preset: "last_1dT"`) that the post did not actually go out. Retry up to 3 times in total.
 - **Verify**: `get_data` with fields `media_id, media_permalink, media_type, timestamp`, filter `media_id eq <id>`, `date_preset "last_1dT"` (do not use force_refresh — trial plan). Only a returned permalink counts as success. Never report a post as published without it.
+
+## 8b. Share to story (only after the carousel is verified live)
+Call `execute_action` (connector `instagram`, action `create_story`, account `17841467826754821`) with `image_url` = the raw URL of `posts/<folder>/story.jpg` (curl it first: 200 `image/jpeg`). Stories take no caption. Make **one** attempt plus at most one retry after ~60 s. A story failure must never block or undo the carousel — just record `story: {status, media_id or error}` in record.json and mention it in the summary. Never post a story if the carousel did not publish.
 
 ## 9. Log and learn
 - Update record.json status → `published` with `published: {media_id, url, time}` (or `failed` with the error).
@@ -78,4 +82,4 @@ Call `execute_action` (connector `instagram`, action `create_carousel_post`, acc
 - Commit and push the log changes.
 
 ## 10. Finish
-End with a short summary: story, score, post URL (or the failure and what was tried). If publishing failed after retries, say so plainly at the top so the user is notified.
+End with a short summary: story, score, post URL, story shared yes/no (or the failure and what was tried). If publishing failed after retries, say so plainly at the top so the user is notified.
