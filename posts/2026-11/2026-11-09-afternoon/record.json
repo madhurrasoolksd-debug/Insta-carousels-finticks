@@ -1,0 +1,181 @@
+{
+  "cycle": "2026-11-09 afternoon",
+  "headline": "India's $900bn asset management industry pushes the government to scrap capital gains tax for foreign investors as 2026 FPI outflows near a record $27bn",
+  "original_publication": [
+    {
+      "source": "Bloomberg via Business Standard",
+      "time": "2026-11-09 10:47 IST",
+      "url": "https://www.business-standard.com/industry/news/asset-management-industry-push-for-tax-cuts-to-stem-foreign-exodus-126110900242_1.html"
+    },
+    {
+      "source": "Daijiworld (same Bloomberg report)",
+      "time": "2026-11-09 12:07 IST",
+      "url": "https://daijiworld.com/news/newsDisplay?newsID=1334804"
+    },
+    {
+      "source": "Free Press Journal (Rashesh Shah, Bloomberg TV)",
+      "time": "2026-11-07 15:32 IST",
+      "url": "https://www.freepressjournal.in/business/edelweiss-rashesh-shah-calls-for-capital-gains-tax-exemption-for-fiis"
+    },
+    {
+      "source": "Daily Pioneer (Reuters: SEBI backs LTCG removal for FPIs)",
+      "time": "2026-11-03 04:41 IST",
+      "url": "https://dailypioneer.com/business/sebi-urges-govt-to-drop-ltcg-for-foreign-equity-investors"
+    },
+    {
+      "source": "Business Today",
+      "time": "2026-11-04 06:00 IST",
+      "url": "https://www.businesstoday.in/markets/story/bt-big-story-can-scrapping-ltcg-tax-bring-foreign-investors-back-to-indian-equities-565479-2026-11-03"
+    },
+    {
+      "source": "Tapetide (NSE provisional FII/DII)",
+      "time": "2026-11",
+      "url": "https://tapetide.com/insight/reports/fii-dii-flows/2026-11"
+    },
+    {
+      "source": "HDFC Sky (Nov 9 open, Friday FII data)",
+      "time": "2026-11-09 11:00 IST",
+      "url": "https://hdfcsky.com/news/bse-nse-sensex-november-9-2026-open-report-sensex-nifty-slip-in-morning-trade-as-profit-booking-hits-it-stocks-investors-stay-cautious"
+    },
+    {
+      "source": "Business Standard live blog (12 PM levels)",
+      "time": "2026-11-09 12:40 IST",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
+    }
+  ],
+  "official_announcement_url": "None - industry demand and reported SEBI recommendation; no official government notification",
+  "verification_timestamp": "2026-11-09T12:48:09+05:30",
+  "importance_score": 84,
+  "shortlist": [
+    {
+      "story": "Fund industry push to scrap capital gains tax for FPIs (Bloomberg, Nov 9)",
+      "score": 84,
+      "status": "selected"
+    },
+    {
+      "story": "Midday market flat; Nifty IT down ~1.3-2% on profit booking, PSU banks up, Nifty Pharma record",
+      "score": 73,
+      "status": "rejected: flat move, market/Sensex topic overused in recent posts; used as context"
+    },
+    {
+      "story": "Oil steepest weekly drop since 2020 on US-Iran talks",
+      "score": 70,
+      "status": "rejected: covered as context in morning post"
+    },
+    {
+      "story": "Tata Steel Q2FY27 net profit +16% to ~Rs 3,700 cr",
+      "score": 65,
+      "status": "rejected: single-company, smaller impact"
+    },
+    {
+      "story": "Sai Life Sciences +9% on Q2 profit +17%",
+      "score": 55,
+      "status": "rejected: small cap"
+    }
+  ],
+  "selection_reason": "Policy change with direct bearing on FPI flows, the biggest swing factor for Indian markets in 2026; fresh Bloomberg report today, building on SEBI's reported recommendation and FM's openness; different topic from the last two posts (AI/Nvidia, Muhurat).",
+  "key_facts": [
+    {
+      "fact": "Asset management industry ~ $900bn asks to scrap capital gains tax for foreign investors",
+      "sources": [
+        "Business Standard/Bloomberg",
+        "Daijiworld"
+      ]
+    },
+    {
+      "fact": "2026 foreign outflows nearing a record ~$27bn; third straight year of outflows",
+      "sources": [
+        "Business Standard/Bloomberg",
+        "Daijiworld"
+      ]
+    },
+    {
+      "fact": "LTCG 12.5% (held >1 yr), STCG 20%",
+      "sources": [
+        "Business Standard",
+        "Daily Pioneer",
+        "Business Today",
+        "Free Press Journal"
+      ]
+    },
+    {
+      "fact": "FPI levy introduced in 2018",
+      "sources": [
+        "Business Standard",
+        "Daijiworld"
+      ]
+    },
+    {
+      "fact": "FPIs invested >$3.5bn in week through Thursday, best week in 5+ years",
+      "sources": [
+        "Business Standard/Bloomberg",
+        "Daijiworld"
+      ]
+    },
+    {
+      "fact": "FII net buy Rs 45,960 cr Nov 2-6; Rs 13,749.82 cr on Nov 6",
+      "sources": [
+        "Tapetide NSE provisional",
+        "HDFC Sky",
+        "Kotak Neo (morning record)"
+      ]
+    },
+    {
+      "fact": "SEBI reportedly recommended scrapping LTCG for FPIs (non-binding)",
+      "sources": [
+        "Daily Pioneer/Reuters",
+        "Business Today"
+      ]
+    },
+    {
+      "fact": "Sitharaman will consider stock tax changes, unconfirmed scope",
+      "sources": [
+        "Business Standard",
+        "Daijiworld",
+        "Free Press Journal"
+      ]
+    },
+    {
+      "fact": "Net FPI outflows since 2019 (Ananth Narayan, ex-SEBI WTM)",
+      "sources": [
+        "Business Standard",
+        "Daijiworld"
+      ]
+    },
+    {
+      "fact": "Nifty 24,967.85 (-0.07%) at 12 PM; PSU banks up to 3%; SBI top gainer",
+      "sources": [
+        "Business Standard live",
+        "HDFC Sky"
+      ]
+    }
+  ],
+  "discrepancies_resolved": [
+    "2026 FPI outflow: ~$27bn (Bloomberg Nov 9), >$28bn (FPJ citing Bloomberg Nov 7), record $31bn (Reuters Nov 3, before recent inflows). Used 'nearly $27bn' from the latest report.",
+    "Both $27bn sources are the same Bloomberg report syndicated; treated as Bloomberg's own data and labelled as such on slide 1.",
+    "BS live headline said Sensex -300/Nifty below 24,900 but the 12 PM body figures showed Nifty 24,967.85; used body figure 'near 24,970'.",
+    "Sitharaman's June 2026 'capital gains exemption for FPIs' (Newsbytes) appears to relate to government securities and scope is unclear; excluded."
+  ],
+  "seo_keywords": {
+    "primary": "capital gains tax foreign investors",
+    "secondary": [
+      "FPI outflows",
+      "LTCG tax",
+      "SEBI",
+      "Nirmala Sitharaman",
+      "Budget 2027",
+      "Nifty 50",
+      "asset management industry",
+      "debt mutual funds"
+    ]
+  },
+  "alt_text": [
+    "Cover: 'Zero tax to win back foreign money?' with ~$27bn 2026 foreign outflows, LTCG 12.5% now vs 0% industry ask.",
+    "What happened: $900bn industry, 20% short-term tax, Rs 45,960 cr FPI buying Nov 2-6, FPI levy since 2018; fund industry and SEBI positions.",
+    "Why it matters: FM open to changes, Feb 2027 Budget, $3.5bn+ FPI week, net outflows since 2019; quotes from Rashesh Shah and Saurabh Mukherjea.",
+    "Market impact: Friday FPI buying, flat Nifty at noon, PSU banks up vs what to watch on tax signals and Budget.",
+    "Key takeaways: zero tax ask, current 12.5%/20% rates, nothing decided until the Budget."
+  ],
+  "status": "rendered",
+  "caption": "Capital gains tax for foreign investors: India's fund houses want it scrapped to stop FPI outflows 💸\n\nIndia's $900 billion asset management industry is asking the Modi government to scrap capital gains tax for foreign portfolio investors (FPIs), Bloomberg reported on Monday. Foreign funds are on track for a third straight year of selling Indian stocks, with 2026 outflows nearing a record $27 billion. Today, long-term capital gains (LTCG) on listed equity are taxed at 12.5% and short-term gains (STCG) at 20%.\n\nWhy it matters: SEBI has reportedly recommended dropping LTCG tax for foreign investors, and Finance Minister Nirmala Sitharaman has said she will consider changes to stock taxes, without confirming which. Fund managers also want debt mutual fund gains taxed like equity instead of at slab rates. Any change would most likely come in the February 2027 Union Budget.\n\nThe timing is notable: FPIs bought ₹45,960 crore of Indian shares in the Nov 2–6 week as US tech stocks sold off, while the Nifty 50 traded flat near 24,970 at midday today. Nothing has been decided yet.\n\nShould India scrap capital gains tax for foreign investors if domestic investors still pay it? Tell us in the comments 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: Bloomberg via Business Standard, Reuters via Daily Pioneer, Business Today, Free Press Journal, NSE provisional data. Not investment advice.\n\n#StockMarketIndia #CapitalGainsTax #FPI #LTCG #Budget2027\n"
+}

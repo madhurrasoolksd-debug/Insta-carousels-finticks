@@ -1,0 +1,122 @@
+{
+  "sources": "Bloomberg via Business Standard, Reuters via Daily Pioneer, Business Today, Free Press Journal, NSE provisional data (Nov 3–9, 2026)",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Tax policy · FPI flows",
+      "title": "Zero tax to *win back* foreign money?",
+      "stat": "~$27bn",
+      "stat_label": "Foreign outflows from Indian stocks in 2026",
+      "stat_sub": "Near a record, per Bloomberg data",
+      "compare": [
+        {
+          "k": "LTCG tax now",
+          "v": "12.5%",
+          "tone": "dn"
+        },
+        {
+          "k": "Industry ask for FPIs",
+          "v": "0%",
+          "tone": "up"
+        }
+      ]
+    },
+    {
+      "type": "facts",
+      "kicker": "What happened",
+      "title": "Fund houses *push* for zero tax",
+      "stats": [
+        {
+          "k": "Industry size",
+          "v": "$900bn",
+          "d": "Asset managers' AUM",
+          "tone": "or"
+        },
+        {
+          "k": "Short-term gains tax",
+          "v": "20%",
+          "d": "Equity held under a year",
+          "tone": "dn"
+        },
+        {
+          "k": "FPI buying Nov 2–6",
+          "v": "₹45,960",
+          "d": "Crore, NSE provisional",
+          "tone": "up"
+        },
+        {
+          "k": "Levy on FPIs since",
+          "v": "2018",
+          "d": "Outflows on track for 3rd year",
+          "tone": "dn"
+        }
+      ],
+      "points": [
+        "Fund industry wants **capital gains tax scrapped** for foreign investors",
+        "**SEBI** has reportedly backed dropping LTCG for foreign investors"
+      ]
+    },
+    {
+      "type": "facts",
+      "kicker": "Why it matters",
+      "title": "Why the *tax* fight matters",
+      "stats": [
+        {
+          "k": "FM Sitharaman",
+          "v": "Open",
+          "d": "Will consider stock tax changes",
+          "tone": "or"
+        },
+        {
+          "k": "Next decision point",
+          "v": "Feb '27",
+          "d": "Union Budget",
+          "tone": "or"
+        },
+        {
+          "k": "FPI week to Thu",
+          "v": "$3.5bn+",
+          "d": "Best week in 5+ years",
+          "tone": "up"
+        },
+        {
+          "k": "Net FPI flows",
+          "v": "Outflow",
+          "d": "Since 2019, says ex-SEBI member",
+          "tone": "dn"
+        }
+      ],
+      "points": [
+        "Edelweiss's **Rashesh Shah**: scrapping it \"might be an easier answer\"",
+        "**Marcellus's Mukherjea**: US, UK, Japan don't tax such inflows"
+      ]
+    },
+    {
+      "type": "split",
+      "kicker": "Market impact",
+      "title": "What moved, what to *watch*",
+      "actual": [
+        "**FPIs bought ₹13,750 cr on Friday** after a sharp AI-led US tech sell-off",
+        "**Nifty flat near 24,970** at noon as IT stocks slipped",
+        "**PSU banks rose up to 3%**; SBI among top Nifty gainers"
+      ],
+      "watch": [
+        "**Any Finance Ministry signal** on FPI capital gains tax",
+        "**Budget 2027 (Feb)** — the likely window for any change",
+        "**Whether FPI buying holds** if US tech rebounds"
+      ],
+      "note": "No tax change has been announced; SEBI's view is advisory. Markets shut Tue, Nov 10. Not investment advice."
+    },
+    {
+      "type": "takeaways",
+      "kicker": "Key takeaways",
+      "title": "What investors should *know*",
+      "points": [
+        "Fund houses want **zero capital gains tax** for foreign investors to stem near-record outflows",
+        "Today foreign investors pay **12.5% LTCG and 20% STCG** on Indian stocks",
+        "Nothing is decided yet — watch the **February 2027 Budget**"
+      ],
+      "cta": "Follow for daily market news that matters"
+    }
+  ]
+}
