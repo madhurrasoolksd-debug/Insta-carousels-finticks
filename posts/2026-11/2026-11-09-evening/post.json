@@ -1,0 +1,139 @@
+{
+  "sources": "Reuters via Business Recorder, Business Standard, Business Today, HDFC Sky, Kotak Neo, The Week (Nov 9, 2026)",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Market close · Brokerage calls",
+      "title": "Citi and HSBC turn *bullish* on India",
+      "stat": "28,000",
+      "stat_label": "Citi's new end-2027 Nifty 50 target",
+      "stat_sub": "About 12% upside, per Citi",
+      "compare": [
+        {
+          "k": "Nifty close today",
+          "v": "25,044.65",
+          "tone": "up"
+        },
+        {
+          "k": "HSBC on India",
+          "v": "Overweight",
+          "tone": "or"
+        }
+      ]
+    },
+    {
+      "type": "facts",
+      "kicker": "What happened",
+      "title": "Highest close *since Feb 27*",
+      "stats": [
+        {
+          "k": "Sensex",
+          "v": "81,107",
+          "d": "+107 pts (+0.13%)",
+          "tone": "up"
+        },
+        {
+          "k": "Nifty 50",
+          "v": "25,045",
+          "d": "+58 pts (+0.23%)",
+          "tone": "up"
+        },
+        {
+          "k": "Nifty PSU Bank",
+          "v": "+3.7%",
+          "d": "Best sector today",
+          "tone": "up"
+        },
+        {
+          "k": "Nifty IT",
+          "v": "-1.2%",
+          "d": "Worst sector today",
+          "tone": "dn"
+        }
+      ],
+      "points": [
+        "An **8-month closing high**, after a ~10.5% seven-session rally to Friday",
+        "**Citi** raised its Nifty target; **HSBC** upgraded India from neutral",
+        "HSBC cut **China** to neutral in the same call"
+      ]
+    },
+    {
+      "type": "chart",
+      "kicker": "Why it matters",
+      "title": "Banks and pharma *led* the day",
+      "caption": "Index % change at close, Monday Nov 9, 2026",
+      "bars": [
+        {
+          "name": "PSU Bank",
+          "v": 3.7,
+          "hl": true
+        },
+        {
+          "name": "Pharma",
+          "v": 1.65
+        },
+        {
+          "name": "Bank Nifty",
+          "v": 1.51
+        },
+        {
+          "name": "Midcap 100",
+          "v": 0.6
+        },
+        {
+          "name": "Nifty 50",
+          "v": 0.23
+        },
+        {
+          "name": "Nifty IT",
+          "v": -1.2
+        }
+      ],
+      "why": [
+        {
+          "h": "Cheaper oil",
+          "t": "Brent near $97 as US-Iran attack fears eased"
+        },
+        {
+          "h": "Foreign money",
+          "t": "FPIs bought $4.1bn+ in Nov, most since Sep 2024"
+        },
+        {
+          "h": "AI rotation",
+          "t": "Funds moving out of crowded global AI trades"
+        },
+        {
+          "h": "Earnings",
+          "t": "Citi sees Nifty EPS growing 15-16% a year to FY28"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "kicker": "Market impact",
+      "title": "What moved, what to *watch*",
+      "actual": [
+        "**SBI +2.6%**, top Nifty 50 gainer",
+        "**Divi's +4.2%, Gland +4.9%** on results",
+        "**Tata Steel -2.8%, HCL Tech -2.4%**"
+      ],
+      "watch": [
+        "**Wed, Nov 11** — trading resumes",
+        "**Whether FPI buying holds**",
+        "**Remaining Q2 results**"
+      ],
+      "note": "Markets shut Tue, Nov 10. Brokerage targets are forecasts, not guarantees. Not investment advice."
+    },
+    {
+      "type": "takeaways",
+      "kicker": "Key takeaways",
+      "title": "What investors should *know*",
+      "points": [
+        "Sensex and Nifty closed at their **highest since February 27**, even as IT stocks fell",
+        "**Citi (28,000 by end-2027) and HSBC (overweight)** cite earnings, cheaper oil and inflows",
+        "Targets can miss — track **oil, FPI flows and Q2 earnings** when markets reopen Wednesday"
+      ],
+      "cta": "Follow for daily market news that matters"
+    }
+  ]
+}
