@@ -1,0 +1,135 @@
+{
+  "sources": "Fox Business, TechCrunch, Reuters, The Standard, TradingView, Kotak Neo, Yahoo Finance (Nov 6–9, 2026)",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Global cues · Monday pre-market",
+      "title": "Nvidia *probes* its own CEO",
+      "compare": [
+        {
+          "k": "Nikkei · Mon open",
+          "v": "+2.05%",
+          "tone": "up"
+        },
+        {
+          "k": "Nasdaq · last week",
+          "v": "−3.4%",
+          "tone": "dn"
+        }
+      ],
+      "stat": "8.6%",
+      "stat_label": "Nifty's gain last week as AI stocks sank",
+      "stat_sub": "Nvidia reports Q3 results on Nov 17"
+    },
+    {
+      "type": "facts",
+      "kicker": "What happened",
+      "title": "A weekend *shock* for AI",
+      "stats": [
+        {
+          "k": "Probe announced",
+          "v": "Nov 8",
+          "d": "Led by independent directors",
+          "tone": "or"
+        },
+        {
+          "k": "Nvidia · Friday",
+          "v": "+2.8%",
+          "d": "Rebound after Thursday rout",
+          "tone": "up"
+        },
+        {
+          "k": "Fed Dec hike odds",
+          "v": "~77%",
+          "d": "CME FedWatch, post jobs data",
+          "tone": "dn"
+        },
+        {
+          "k": "Brent · Mon Asia",
+          "v": "$97.5",
+          "d": "Down 16%+ last week",
+          "tone": "up"
+        }
+      ],
+      "points": [
+        "Reports say **Jensen Huang** was targeted by a suspected Chinese spy",
+        "Huang admitted an affair and apologised; he **stays CEO** for now",
+        "Board: **no reason to believe** security or secrets were compromised"
+      ]
+    },
+    {
+      "type": "chart",
+      "kicker": "Why it matters",
+      "title": "India *gained* as AI stocks fell",
+      "caption": "Weekly change, Nov 2–6, 2026, %",
+      "bars": [
+        {
+          "name": "Nifty 50",
+          "v": 8.6,
+          "hl": true
+        },
+        {
+          "name": "Dow",
+          "v": -0.9
+        },
+        {
+          "name": "S&P 500",
+          "v": -2.7
+        },
+        {
+          "name": "Nasdaq",
+          "v": -3.4
+        },
+        {
+          "name": "Brent crude",
+          "v": -16
+        }
+      ],
+      "why": [
+        {
+          "h": "Rotation into India",
+          "t": "FIIs bought ₹45,960 cr as US tech sold off"
+        },
+        {
+          "h": "Nvidia sets the tone",
+          "t": "The bellwether for global AI and chip stocks"
+        },
+        {
+          "h": "Fed hike risk",
+          "t": "Higher US rates can pull money out of India"
+        },
+        {
+          "h": "Cheaper oil",
+          "t": "India imports about 85% of its crude"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "kicker": "Market impact",
+      "title": "What moved, what to *watch*",
+      "actual": [
+        "**Asia rebounded:** Nikkei up 2%+ early Monday; Kospi slipped",
+        "**Chip stocks steadied:** Samsung, SK Hynix edged higher",
+        "**Brent eased** to about $97.5 in early Asian trade"
+      ],
+      "watch": [
+        "**Today's session:** can the Nifty's 7-day streak continue?",
+        "**US CPI on Tuesday** and Fed hike odds",
+        "**Nvidia results on Nov 17** and the board review"
+      ],
+      "note": "Indian markets are open today and shut on Tue, Nov 10 (Diwali Balipratipada). Not investment advice."
+    },
+    {
+      "type": "takeaways",
+      "kicker": "Key takeaways",
+      "title": "What investors should *know*",
+      "points": [
+        "Nvidia's board is probing **CEO Jensen Huang's** links to a suspected Chinese spy",
+        "Last week's **AI sell-off sent foreign money into India**; the Nifty rose 8.6%",
+        "Watch **US inflation, Fed hike odds and Nvidia's Nov 17 results** this week"
+      ],
+      "cta": "Follow for daily market news that matters"
+    }
+  ]
+}

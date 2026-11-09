@@ -99,6 +99,7 @@ ul.pts li b{color:#fff}
 .fill.pos{left:50%;background:var(--green);color:#062B1C;justify-content:flex-end}
 .fill.neg{right:50%;background:var(--red);color:#3A0608;justify-content:flex-start}
 .fill.hl{box-shadow:0 0 0 4px var(--orange)}
+.fill.out{padding:0}.fill.out span{position:absolute;white-space:nowrap;color:#fff}.fill.neg.out span{right:calc(100% + 12px)}.fill.pos.out span{left:calc(100% + 12px)}
 .why{margin-top:28px;display:grid;grid-template-columns:1fr 1fr;gap:18px}
 .why div{background:var(--card);border-left:6px solid var(--orange);border-radius:14px;padding:16px 20px;font-size:23px;font-weight:600;line-height:1.35;color:#DCE6F2}
 .why b{color:#fff;display:block;font-size:27px;margin-bottom:4px}
@@ -185,7 +186,9 @@ def slide_html(s, i, n, sources):
             wpct = abs(b["v"]) / m * 50
             cls = "pos" if b["v"] >= 0 else "neg"
             hl = " hl" if b.get("hl") else ""
-            lab = f'{b["v"]:+.2f}%'
+            if wpct < 16:
+                hl += " out"
+            lab = f'<span>{b["v"]:+.2f}%</span>'
             rows += (f'<div class="bar"><div class="nm">{esc(b["name"])}</div><div class="track"><div class="zero"></div>'
                      f'<div class="fill {cls}{hl}" style="width:{wpct:.1f}%">{lab}</div></div></div>')
         why = "".join(f'<div><b>{esc(w["h"])}</b>{esc(w["t"])}</div>' for w in s.get("why", []))

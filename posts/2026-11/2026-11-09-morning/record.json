@@ -1,0 +1,219 @@
+{
+  "cycle": "2026-11-09 morning",
+  "headline": "Nvidia's board opens an independent probe into CEO Jensen Huang after reports he was targeted by a suspected Chinese spy; Asia rebounds Monday after last week's AI rout that drove FII money into India",
+  "original_publication": [
+    {
+      "source": "TechCrunch",
+      "time": "2026-11-08 13:00 PST (2026-11-09 02:30 IST)",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    },
+    {
+      "source": "Fox Business",
+      "time": "2026-11-08 16:25 EST (2026-11-09 02:55 IST)",
+      "url": "https://www.foxbusiness.com/politics/nvidia-ceo-jensen-huang-apologizes-firm-probes-affair-alleged-spy"
+    },
+    {
+      "source": "Reuters via Investing.com (Asia open)",
+      "time": "2026-11-08 20:47 ET (2026-11-09 07:17 IST)",
+      "url": "https://www.investing.com/news/economy-news/asian-stocks-steady-as-ai-mideast-jitters-recede-dollar-firm-on-fed-bets-5010407"
+    },
+    {
+      "source": "TradingKey (Nikkei/Kospi open)",
+      "time": "2026-11-09",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262295111-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-nvda-sox-tradingkey"
+    },
+    {
+      "source": "TechFlow (US weekly wrap, Nvidia)",
+      "time": "2026-11-09",
+      "url": "https://www.techflowpost.com/en-US/article/35194"
+    },
+    {
+      "source": "The Standard HK (US weekly changes)",
+      "time": "2026-11-07 06:48 HKT",
+      "url": "https://www.thestandard.com.hk/finance/article/347776/Nasdaq-rebounds-but-posts-fourth-straight-weekly-decline"
+    },
+    {
+      "source": "TradingView/IANS (Nifty week)",
+      "time": "2026-11-07",
+      "url": "https://www.tradingview.com/news/moodys:48cecbfb56d4d:0-diwali-fireworks-nifty-surges-over-8-in-nov-2-6-week-best-in-6-yrs-after-us-midterm-election-results-ril-soars-13/"
+    },
+    {
+      "source": "Kotak Neo (FII inflows)",
+      "time": "2026-11-08 13:47 IST",
+      "url": "https://www.kotakneo.com/news/market-news/fii-inflows-surge-45960-crore-nifty-rally-86-percent-november-2026/"
+    },
+    {
+      "source": "Yahoo Finance (jobs report, FedWatch)",
+      "time": "2026-11-06 06:41 PST",
+      "url": "https://finance.yahoo.com/economy/article/a-blowout-us-added-165000-jobs-in-october-trouncing-expectations-135651705.html"
+    },
+    {
+      "source": "Angel One (NSE holidays Nov 2026)",
+      "time": "2026-11",
+      "url": "https://www.angelone.in/news/market-updates/stock-market-nse-bse-holidays-this-month-november-2026"
+    }
+  ],
+  "official_announcement_url": "Nvidia board statement (Nov 8, 2026) as quoted by TechCrunch and Fox Business; no direct IR link fetched",
+  "verification_timestamp": "2026-11-09T07:45:07+05:30",
+  "importance_score": 79,
+  "shortlist": [
+    {
+      "story": "Nvidia board probe into CEO Jensen Huang + Monday Asia rebound / India setup",
+      "score": 79,
+      "status": "selected"
+    },
+    {
+      "story": "Asia rebound Monday (Nikkei +2%, Taiwan +2.5%) and GIFT Nifty setup",
+      "score": 74,
+      "status": "merged into selected story as market-impact context"
+    },
+    {
+      "story": "US Oct jobs +165k, Fed December hike odds ~77-80%",
+      "score": 72,
+      "status": "rejected as lead: released Fri Nov 6 (before the previous cycle), used only as context"
+    },
+    {
+      "story": "Nifty 8.6% weekly gain / FII inflows",
+      "score": 65,
+      "status": "rejected as lead: covered in 2026-11-08 afternoon post; used as context"
+    },
+    {
+      "story": "Q2 results today (Whirlpool of India, Olectra Greentech)",
+      "score": 50,
+      "status": "rejected: low market impact, results not yet out"
+    }
+  ],
+  "selection_reason": "Freshest globally market-moving development since the previous cycle (announced ~02:30 IST). Nvidia is the AI bellwether; last week's AI rout drove the FII rotation into India, so the probe and AI sentiment matter for today's session (the last before Tuesday's holiday). Switches topic away from two consecutive Sensex/Muhurat posts.",
+  "key_facts": [
+    {
+      "fact": "Nvidia board announced on Sun Nov 8 an independent investigation led by independent directors with outside counsel",
+      "sources": [
+        "TechCrunch",
+        "Fox Business",
+        "TechFlow"
+      ]
+    },
+    {
+      "fact": "Board: no reason to believe national security or Nvidia secrets were compromised; Huang fully supports the review and remains CEO",
+      "sources": [
+        "TechCrunch",
+        "Fox Business",
+        "TechFlow"
+      ]
+    },
+    {
+      "fact": "Huang admitted an affair and apologised in a message to employees",
+      "sources": [
+        "TechCrunch",
+        "Fox Business"
+      ]
+    },
+    {
+      "fact": "Nvidia Q3 results due Nov 17",
+      "sources": [
+        "TechFlow"
+      ],
+      "note": "single source; stated only as watch item"
+    },
+    {
+      "fact": "Nvidia rose ~2.8% on Fri Nov 6",
+      "sources": [
+        "The Standard (2.8%)",
+        "TechFlow (nearly 3%)"
+      ]
+    },
+    {
+      "fact": "Weekly Nov 2-6: Nasdaq -3.4%, S&P 500 -2.7%, Dow -0.9%",
+      "sources": [
+        "The Standard",
+        "TechFlow"
+      ]
+    },
+    {
+      "fact": "Nifty 50 +8.6% (8.58%) week of Nov 2-6",
+      "sources": [
+        "TradingView/IANS",
+        "Kotak Neo"
+      ]
+    },
+    {
+      "fact": "FIIs net bought Rs 45,960 cr in week ended Nov 6 (exchange data)",
+      "sources": [
+        "Kotak Neo"
+      ],
+      "note": "NSDL figure Rs 38,971 cr; Geojit 5-session Rs 35,781 cr; exchange figure used and labelled FIIs"
+    },
+    {
+      "fact": "Brent fell over 16% last week; ~$97.5 in Monday Asian trade",
+      "sources": [
+        "Reuters ($97.49)",
+        "TechFlow (~$97.50)",
+        "Kotak Neo (>16%)"
+      ]
+    },
+    {
+      "fact": "Nikkei +2.05% at Monday open; Kospi opened lower; Samsung, SK Hynix edged up",
+      "sources": [
+        "TradingKey",
+        "Reuters (Nikkei +2.5% later, Korea small gains)"
+      ]
+    },
+    {
+      "fact": "CME FedWatch December 25bp hike odds ~77%",
+      "sources": [
+        "Yahoo Finance (77%)",
+        "TechFlow (76.8%)",
+        "Reuters (nearly 80%)"
+      ]
+    },
+    {
+      "fact": "US CPI due Tuesday",
+      "sources": [
+        "Reuters"
+      ]
+    },
+    {
+      "fact": "NSE/BSE closed Tue Nov 10 (Diwali Balipratipada); Mon Nov 9 trading day",
+      "sources": [
+        "Angel One"
+      ]
+    },
+    {
+      "fact": "India imports ~85% of crude",
+      "sources": [
+        "TradingView/IANS"
+      ]
+    }
+  ],
+  "discrepancies_resolved": [
+    "Nikkei: +2.05% at open (TradingKey) vs +2.5% (Reuters, later); used '+2.05% Mon open' and '2%+'.",
+    "Fed hike odds: 77% (Yahoo), 76.8% (TechFlow), nearly 80% (Reuters); used ~77%.",
+    "FII flows: Rs 45,960 cr exchange data vs Rs 38,971 cr NSDL vs Rs 35,781 cr (Geojit); used exchange figure as reported by Kotak Neo.",
+    "Brent weekly drop: 'over 16%' (Kotak, TechFlow) vs 'nearly 16%' (IANS); charted as -16%.",
+    "Jobs forecast: ~70k (Bloomberg via Yahoo) vs 59k (TheStreet); forecast not used.",
+    "GIFT Nifty: only an unreliable midnight snapshot (24,990, -0.19%) found; not used."
+  ],
+  "seo_keywords": {
+    "primary": "Nvidia probe Jensen Huang",
+    "secondary": [
+      "Sensex",
+      "Nifty 50",
+      "AI stocks",
+      "FII inflows",
+      "Fed rate hike",
+      "US CPI",
+      "Nikkei",
+      "Brent crude",
+      "Nvidia Q3 results"
+    ]
+  },
+  "alt_text": [
+    "Cover: 'Nvidia probes its own CEO' with Nifty's 8.6% weekly gain, Nikkei +2.05% at Monday open and Nasdaq -3.4% last week.",
+    "What happened: probe announced Nov 8, Nvidia +2.8% Friday, Fed December hike odds about 77%, Brent at $97.5, with three bullets on the probe.",
+    "Why it matters: bar chart of weekly changes Nov 2-6 (Nifty +8.6%, Dow -0.9%, S&P 500 -2.7%, Nasdaq -3.4%, Brent -16%) and four reasons.",
+    "Market impact: Asia rebound, chip stocks steady, Brent easing versus watch items: today's session, US CPI, Nvidia results Nov 17.",
+    "Key takeaways: three points on the Nvidia probe, the AI sell-off's FII rotation into India, and this week's watch list."
+  ],
+  "status": "draft",
+  "caption": "Nvidia probes CEO Jensen Huang: what it means for Sensex, Nifty and AI stocks today 🔍\n\nNvidia's board said on Sunday that independent directors, working with outside counsel, will investigate reports that CEO Jensen Huang was targeted by a suspected Chinese spy. Huang admitted an affair and apologised, and he remains CEO during the review. The board says it has no reason to believe national security or Nvidia's secrets were compromised.\n\nWhy it matters: Nvidia is the bellwether for global AI and semiconductor stocks. Last week's AI sell-off sent the Nasdaq down 3.4% and the S&P 500 down 2.7%, while foreign investors (FIIs) bought ₹45,960 crore of Indian shares and the Nifty 50 jumped 8.6%. Early Monday, Japan's Nikkei rebounded over 2% and Brent crude eased to about $97.5 a barrel.\n\nThis week, watch US CPI inflation data on Tuesday, Fed rate hike odds (about 77% for December after a strong US jobs report) and Nvidia's Q3 results on November 17. Indian markets are open today and shut on Tuesday for Diwali Balipratipada.\n\nWill the AI sell-off keep sending foreign money into Indian stocks, or does an AI rebound pull it back? Tell us in the comments 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: Fox Business, TechCrunch, Reuters, The Standard, TradingView, Kotak Neo, Yahoo Finance. Not investment advice.\n\n#StockMarketIndia #Nifty50 #Nvidia #AIStocks #GlobalMarkets\n"
+}
