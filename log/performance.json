@@ -1,6 +1,6 @@
 {
-  "pulled_at": "2026-11-09T12:55:00+05:30",
-  "note": "Windsor insights still report zeros (trial-plan cache lag); newest post not yet in insights",
+  "pulled_at": "2026-11-09T19:00:00+05:30",
+  "note": "Windsor insights still report zeros for all 5 posts (trial-plan cache lag, ~36h after first post)",
   "posts": [
     {
       "media_id": "18112073585182830",
@@ -34,6 +34,34 @@
       "media_id": "18107375501578917",
       "permalink": "https://www.instagram.com/p/DfgPN7VCla3/",
       "timestamp": "2026-11-09T02:16:46+0000",
+      "reach": 0,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "follows": 0,
+      "engagement": 0,
+      "engagement_rate": null
+    },
+    {
+      "media_id": "18175717024457928",
+      "permalink": "https://www.instagram.com/p/DfgyIAuDvhW/",
+      "timestamp": "2026-11-09T07:21:45+0000",
+      "reach": 0,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "follows": 0,
+      "engagement": 0,
+      "engagement_rate": null
+    },
+    {
+      "media_id": "18121557545057312",
+      "permalink": "https://www.instagram.com/p/Dfhb3wdCGmr/",
+      "timestamp": "2026-11-09T13:26:35+0000",
       "reach": 0,
       "views": 0,
       "likes": 0,
