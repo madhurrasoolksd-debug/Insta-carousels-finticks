@@ -239,6 +239,15 @@ def main(post_path, outdir):
             Image.open(out / f"slide-{i}.png").convert("RGB").save(out / f"slide-{i}.jpg", quality=92)
             print(out / f"slide-{i}.png")
         b.close()
+    # contact sheet: all 5 slides in one image for a single visual check
+    from PIL import Image
+    ims = [Image.open(out / f"slide-{i}.jpg") for i in range(1, 6)]
+    w, h = 432, 540
+    sheet = Image.new("RGB", (w * 5 + 40, h), "white")
+    for i, im in enumerate(ims):
+        sheet.paste(im.resize((w, h)), (i * (w + 10), 0))
+    sheet.save(out / "contact.png")
+    print(out / "contact.png")
     if overflow:
         sys.exit(f"Overflow on slides {overflow}: shorten text and re-render")
 

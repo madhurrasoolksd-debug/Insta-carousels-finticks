@@ -15,7 +15,13 @@ Fixed facts:
 3. Read `log/history.json` (all past posts), `log/learnings.md` (if present) and the last 3 `posts/*/record.json`.
 4. Post folder for this run: `posts/<YYYY-MM>/<YYYY-MM-DD>-<cycle>/` (one sub-folder per month keeps each directory well under GitHub's 3,000-entry limit) where cycle is `morning`, `afternoon` or `evening`. **If that folder already has a record.json with status `published`, stop: this cycle already ran.** Never publish twice for one cycle.
 
-## 1. Research (aim for 10–20 searches)
+## 1. Research — usage budget (hard limits)
+- **At most 8 WebSearch calls and at most 5 WebFetch (page opens) per run.** Stop researching once you have a clear winner with its figures confirmed.
+- Search mode "standard" only; use "extended" at most once, and only if standard results are stale.
+- Send the first 3–4 searches in parallel, covering the cycle focus below. Pick from search snippets first; open pages only for the shortlisted story.
+- Page opens go to the one or two articles that hold the figures you will use (a live-market blog or wire story often covers many numbers at once). Write one specific WebFetch prompt asking for every figure you need, so each page is opened once.
+- Search snippets from two credible outlets that show the same figure count as two sources; you do not need to open both pages.
+- Look at the rendered slides as one contact sheet (all 5 in a single image), not five separate reads.
 Cycle focus (still pick the most important story overall):
 - **morning (≈8 AM)**: overnight US/global close, Asian open, GIFT Nifty, crude/gold/rupee, pre-market India, results due today, overnight corporate/regulatory announcements.
 - **afternoon (≈1 PM)**: midday Indian market moves, results and corporate announcements released this morning, RBI/SEBI circulars, IPO subscriptions/listings, Asian/European developments.
@@ -24,7 +30,7 @@ Cycle focus (still pick the most important story overall):
 
 Cover: NSE/BSE, Sensex/Nifty, US markets, major companies, earnings, IPOs, M&A, RBI/SEBI/Fed/other central banks, inflation/rates/GDP, banking/fintech, commodities (gold, crude), currencies, market-moving geopolitics, global economy.
 
-Prefer: Reuters, Bloomberg, CNBC/CNBC-TV18, Economic Times, Moneycontrol, Business Standard, Financial Times, Mint, PTI, official NSE/BSE/RBI/SEBI/company IR pages. Use WebSearch with mode "standard" first, "extended" when results look stale; WebFetch articles for exact figures.
+Prefer: Reuters, Bloomberg, CNBC/CNBC-TV18, Economic Times, Moneycontrol, Business Standard, Financial Times, Mint, PTI, official NSE/BSE/RBI/SEBI/company IR pages. Stay within the budget above.
 
 ## 2. Freshness and verification (mandatory)
 For each candidate:
@@ -46,7 +52,7 @@ Exactly 5 slides, one cohesive story, in this order and these renderer types:
 5. `takeaways` — KEY TAKEAWAYS. 3 points (≤ 95 characters each), `cta` "Follow for daily market news that matters" (or a close variant).
 Top-level `sources`: short publication list with dates, e.g. "Reuters, Business Standard, NSE (Nov 9, 2026)". `**bold**` = white emphasis, `*text*` = orange accent.
 
-Render: `python3 pipeline/render.py posts/<folder>/post.json posts/<folder>/` . If it exits with an overflow error, shorten the named slides and re-render. Then **look at all 5 PNGs with the Read tool**: check spelling, numbers vs record, nothing clipped or overlapping, the story flows 1→5. Fix and re-render until clean. Delete the .png/.html files before committing; keep the .jpg files.
+Render: `python3 pipeline/render.py posts/<folder>/post.json posts/<folder>/` . If it exits with an overflow error, shorten the named slides and re-render. Then **look at `contact.png` (all 5 slides) with one Read**; open a single slide only if something looks wrong: check spelling, numbers vs record, nothing clipped or overlapping, the story flows 1→5. Fix and re-render until clean. Delete the .png/.html files (incl. contact.png) before committing; keep the .jpg files.
 
 ## 5. Caption (caption.txt) — SEO
 Structure:
