@@ -1,6 +1,6 @@
 {
  "pulled": "2026-11-10",
- "note": "Windsor trial cached data; near-zero everywhere",
+ "note": "6 posts returned; all zero except Nov 9 evening (reach 1, views 2). Likely cached trial data.",
  "posts": [
   {
    "media_id": "18082711898372648",
@@ -8,27 +8,7 @@
    "timestamp": "2026-11-08T13:17:58+0000",
    "reach": 0,
    "views": 0,
-   "likes": 0,
-   "comments": 0,
-   "shares": 0,
-   "saved": 0,
-   "follows": 0,
-   "engagement": 0,
-   "engagement_rate": 0
-  },
-  {
-   "media_id": "18112073585182830",
-   "permalink": "https://www.instagram.com/p/DfeX-2_iEdU/",
-   "timestamp": "2026-11-08T08:54:47+0000",
-   "reach": 0,
-   "views": 0,
-   "likes": 0,
-   "comments": 0,
-   "shares": 0,
-   "saved": 0,
-   "follows": 0,
-   "engagement": 0,
-   "engagement_rate": 0
+   "engagement": 0
   },
   {
    "media_id": "18121557545057312",
@@ -36,55 +16,8 @@
    "timestamp": "2026-11-09T13:26:35+0000",
    "reach": 1,
    "views": 2,
-   "likes": 0,
-   "comments": 0,
-   "shares": 0,
-   "saved": 0,
-   "follows": 0,
-   "engagement": 0,
-   "engagement_rate": 0
-  },
-  {
-   "media_id": "18175717024457928",
-   "permalink": "https://www.instagram.com/p/DfgyIAuDvhW/",
-   "timestamp": "2026-11-09T07:21:45+0000",
-   "reach": 0,
-   "views": 0,
-   "likes": 0,
-   "comments": 0,
-   "shares": 0,
-   "saved": 0,
-   "follows": 0,
-   "engagement": 0,
-   "engagement_rate": 0
-  },
-  {
-   "media_id": "18107375501578917",
-   "permalink": "https://www.instagram.com/p/DfgPN7VCla3/",
-   "timestamp": "2026-11-09T02:16:46+0000",
-   "reach": 0,
-   "views": 0,
-   "likes": 0,
-   "comments": 0,
-   "shares": 0,
-   "saved": 0,
-   "follows": 0,
-   "engagement": 0,
-   "engagement_rate": 0
-  },
-  {
-   "media_id": "18164459311500218",
-   "permalink": "https://www.instagram.com/p/Dfiz8GtiBnJ/",
-   "timestamp": "2026-11-10T02:16:07+0000",
-   "reach": 0,
-   "views": 0,
-   "likes": 0,
-   "comments": 0,
-   "shares": 0,
-   "saved": 0,
-   "follows": 0,
-   "engagement": 0,
-   "engagement_rate": 0
+   "engagement": 0
   }
- ]
+ ],
+ "engagement_rate": null
 }

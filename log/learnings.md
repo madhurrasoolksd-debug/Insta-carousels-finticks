@@ -12,3 +12,8 @@
 - 2026-11-09: Brokerage target stories (Citi 28,000, HSBC overweight) pair well with the evening close; always label targets as forecasts and give the upside basis only when two sources agree.
 - 2026-11-09: Single-source 'nice' stats (Citi's prior 26,000 target, PSU bank individual moves, breadth) were dropped; check two-source coverage before drafting slides to avoid rework.
 - 2026-11-09: Renderer overflow on 'split' slides when bullets exceed ~40 chars; draft split bullets short from the start. Hyphenated words (e.g. '8-month') can break awkwardly in cover/section titles - avoid them in titles.
+
+- 2026-11-10 (evening review): Windsor insights still ~0 for all 6 posts (only Nov 9 evening shows reach 1, views 2) about 3 days after the first post; treat as a trial-plan data lag, not real zero reach. No performance conclusions possible.
+- 2026-11-10: Holiday-day cycles (markets shut) are thin on fresh Indian news; a reopen-preview angle (GIFT Nifty + previously verified closes) works but overlaps earlier topics. Plan 'week-ahead'/macro (US CPI, trade deal) stories earlier in the day to avoid repeats.
+- 2026-11-10: Research budget (8 searches) ran out before the 7 PM IST US CPI release; for evening cycles on CPI days, spend fewer searches on generic Indian-market queries (results were stale/noisy) and target the scheduled event directly.
+- 2026-11-10: Single-source live figures (e.g. GIFT Nifty level) should be stated approximately and attributed; exact levels with mismatched bases were dropped.
