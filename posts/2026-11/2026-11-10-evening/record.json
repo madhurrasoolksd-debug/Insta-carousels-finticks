@@ -1,0 +1,109 @@
+{
+ "cycle": "evening",
+ "headline": "GIFT Nifty up ~1% signals gap-up as Indian markets reopen Nov 11 after Balipratipada",
+ "original_publication": [
+  {
+   "source": "Business Standard",
+   "time": "2026-11-10 15:13 IST",
+   "url": "https://www.business-standard.com/amp/markets/news/bullish-signals-gift-nifty-jumps-1-as-crude-oil-prices-test-90-bbl-126111000417_1.html"
+  },
+  {
+   "source": "CNBC-TV18 via TradingView",
+   "time": "2026-11-10",
+   "url": "https://www.tradingview.com/news/cnbctv:cad052ba7094b:0/"
+  },
+  {
+   "source": "HDFC Sky",
+   "time": "2026-11-09 17:02 IST",
+   "url": "https://hdfcsky.com/news/gift-nifty-signals-flat-open-for-sensex-nifty-on-wednesday-2"
+  }
+ ],
+ "official_announcement_url": null,
+ "verification_timestamp": "2026-11-10T13:40:00Z",
+ "importance_score": 72,
+ "shortlist": [
+  {
+   "story": "GIFT Nifty ~1% up ahead of Nov 11 reopen",
+   "score": 72,
+   "status": "selected"
+  },
+  {
+   "story": "US Oct CPI (due 7 PM IST)",
+   "score": 75,
+   "status": "rejected: not yet released at research time; search budget used"
+  },
+  {
+   "story": "India-US trade deal progress",
+   "score": 60,
+   "status": "rejected: no fresh dated development verified"
+  },
+  {
+   "story": "Oil crash / Wall Street rally",
+   "score": 84,
+   "status": "rejected: Nov 10 morning post"
+  }
+ ],
+ "selection_reason": "Markets shut Nov 10; freshest verified India-relevant development is the GIFT Nifty signal for the reopen, tied to previously verified Nov 9 closes and oil move. Topic overlaps with earlier posts (nifty, crude); different angle (reopen preview).",
+ "key_facts": [
+  {
+   "fact": "GIFT Nifty up ~1.08% around 3 PM IST Nov 10",
+   "sources": [
+    "Business Standard (single source)"
+   ]
+  },
+  {
+   "fact": "Nifty 25,044.65 (+0.23%), Sensex 81,106.65 (+0.13%) on Nov 9; highest since Feb 27",
+   "sources": [
+    "Reuters",
+    "HDFC Sky",
+    "CNBC-TV18"
+   ]
+  },
+  {
+   "fact": "Brent -5.85% to $92.57 Nov 9; fell 16% prior week",
+   "sources": [
+    "Reuters/Investing.com",
+    "The Nation"
+   ]
+  },
+  {
+   "fact": "Dow 52,389.75 +2.15%; Nasdaq +2.74%",
+   "sources": [
+    "Yahoo Finance",
+    "JournalArta"
+   ]
+  },
+  {
+   "fact": "Rupee 93.93/$; FPIs >$4.1bn Nov; India imports ~89% crude; US CPI 7 PM IST",
+   "sources": [
+    "HDFC Sky",
+    "Reuters",
+    "ThePrint",
+    "Kiplinger"
+   ]
+  }
+ ],
+ "discrepancies_resolved": [
+  "GIFT Nifty move is single-source (Business Standard); stated as ~1% and attributed; exact level and +270 pts omitted (implied base differs from HDFC Sky GIFT close 24,990).",
+  "Business Standard Brent $90.5 on Nov 10 not used; used Reuters-verified Nov 9 settlement."
+ ],
+ "seo_keywords": {
+  "primary": "GIFT Nifty gap-up Sensex Nifty",
+  "secondary": [
+   "Nifty 50",
+   "Sensex",
+   "Brent crude",
+   "FPI",
+   "US CPI"
+  ]
+ },
+ "alt_text": [
+  "Cover: Nifty eyes gap-up after break, GIFT Nifty ~1% higher",
+  "Facts: Nifty 25,045, Sensex 81,107, Brent $92.57, FPI $4.1bn+",
+  "Drivers: Brent -16% week, Nasdaq +2.74%, Dow +2.15%, rupee 93.93",
+  "Signals vs what to watch",
+  "Takeaways and follow CTA"
+ ],
+ "status": "pending",
+ "caption": "GIFT Nifty points to a gap-up for Sensex and Nifty as markets reopen after Balipratipada \ud83d\udcc8\n\nIndian markets were shut on Nov 10, but GIFT Nifty traded about 1% higher, per Business Standard, hinting at a firmer start on Nov 11. The Nifty 50 last closed at 25,045 and the Sensex at 81,107, their highest levels since Feb 27. Brent crude fell 5.85% to $92.57 on Nov 9 as Wall Street rallied over 2%.\n\nWhy it matters: India imports about 89% of its crude, so cheaper oil on Iran peace hopes eases pressure on inflation, the rupee and the oil marketing companies. Foreign portfolio investors have bought more than $4.1 billion of Indian shares in November. US inflation data due at 7 PM IST is the next test for global sentiment.\n\nGIFT Nifty is an indicator, not a guarantee of how the open will go.\n\nWill the Nifty hold above 25,000 when trading resumes? Tell us in the comments \ud83d\udc47\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: Business Standard, Reuters, HDFC Sky, Kotak Neo, CNBC-TV18 (Nov 9-10, 2026). Not investment advice.\n\n#GIFTNifty #Nifty50 #Sensex #StockMarketIndia #CrudeOil\n"
+}

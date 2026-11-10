@@ -1,0 +1,28 @@
+{
+  "sources": "Business Standard (Nov 10), Reuters, HDFC Sky, Kotak Neo, CNBC-TV18 (Nov 9-10, 2026)",
+  "slides": [
+    {"type":"cover","kicker":"Market Preview · Reopens Nov 11","title":"Nifty eyes a *gap-up* after the break","stat":"~1%","stat_label":"GIFT Nifty trades higher","stat_sub":"Indian markets shut Nov 10 for Balipratipada",
+     "compare":[{"k":"Nifty close Nov 9","v":"25,045","tone":"or"},{"k":"Brent on Nov 9","v":"-5.85%","tone":"dn"}]},
+    {"type":"facts","kicker":"What happened","title":"The setup for *Wednesday*",
+     "stats":[
+      {"k":"Nifty 50","v":"25,045","d":"+0.23% on Nov 9","tone":"up"},
+      {"k":"Sensex","v":"81,107","d":"+0.13% on Nov 9","tone":"up"},
+      {"k":"Brent crude","v":"$92.57","d":"-5.85% on Nov 9","tone":"dn"},
+      {"k":"FPI buying","v":"$4.1bn+","d":"in November so far","tone":"or"}],
+     "points":["GIFT Nifty rose about **1%** on Nov 10, per **Business Standard**","Nifty and Sensex closed at their **highest since Feb 27**","NSE and BSE **reopen Nov 11**; pre-open at 9 AM"]},
+    {"type":"facts","kicker":"Why it matters","title":"What is *driving* it",
+     "stats":[
+      {"k":"Brent, prior week","v":"-16%","d":"Iran peace hopes","tone":"dn"},
+      {"k":"Nasdaq, Nov 9","v":"+2.74%","d":"Wall Street rally","tone":"up"},
+      {"k":"Dow, Nov 9","v":"+2.15%","d":"closed at 52,390","tone":"up"},
+      {"k":"Rupee, Nov 9","v":"93.93","d":"per US dollar","tone":"or"}],
+     "points":["India imports about **89%** of its crude, so cheaper oil helps","Trump said fresh attacks on Iran are **highly unlikely** during talks","Foreign investors have been **net buyers** this month"]},
+    {"type":"split","kicker":"Market impact","title":"Signals vs *what to watch*",
+     "actual":["**Nifty** at highest close since Feb 27","**Brent** fell 5.85% to $92.57","**Wall Street** rallied over 2%"],
+     "watch":["**US CPI** due 7 PM IST","**Iran talks** and oil","**FPI flows** on reopen"],
+     "note":"GIFT Nifty is an indicator, not a guarantee of the open. Not investment advice."},
+    {"type":"takeaways","kicker":"Key takeaways","title":"What investors should *know*",
+     "points":["**GIFT Nifty** points to a firmer open when markets reopen on Nov 11","**Cheaper oil** and a Wall Street rally are the main global tailwinds","**US inflation data** tonight can still shift the mood"],
+     "cta":"Follow for daily market news that matters"}
+  ]
+}
