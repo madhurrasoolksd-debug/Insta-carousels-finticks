@@ -1,0 +1,27 @@
+{
+  "sources": "PTI via The Federal, Millennium Post, IPOGuru (Nov 9–10, 2026)",
+  "slides": [
+    {"type":"cover","kicker":"IPO Alert · SEBI Approval","title":"MakeMyTrip gets *SEBI's nod* for India IPO","stat":"100% OFS","stat_label":"No fresh issue planned","stat_sub":"Draft filed in July via confidential route"},
+    {"type":"facts","kicker":"What happened","title":"Green light from *SEBI*",
+     "stats":[
+      {"k":"Draft filed","v":"July","d":"confidential route"},
+      {"k":"SEBI observations","v":"Nov 6","d":"public on Nov 9"},
+      {"k":"Fresh issue","v":"None","d":"offer for sale only","tone":"or"},
+      {"k":"Nod validity","v":"12 mths","d":"from observation date","tone":"or"}],
+     "points":["**MakeMyTrip (India)**, the Gurugram-based arm, can now float its IPO","Sellers: **parent MakeMyTrip** and its unit **ibibo Group Holdings (Singapore)**","Issue size, price band and dates will come with the **red herring prospectus**"]},
+    {"type":"facts","kicker":"Why it matters","title":"Who gets the *money*?",
+     "stats":[
+      {"k":"Proceeds to MMT India","v":"Nil","d":"all-OFS structure","tone":"or"},
+      {"k":"After the IPO","v":"Subsidiary","d":"stays under parent"},
+      {"k":"Results","v":"Combined","d":"consolidated with parent"},
+      {"k":"Size","v":"Not set","d":"July reports: $1bn+"}],
+     "points":["Parent and ibibo get **net proceeds**, not the Indian company","Planned uses: **growth, acquisitions, share and convertible buybacks**","Aims to lift **brand visibility** and help hire **tech talent**"]},
+    {"type":"split","kicker":"Market impact","title":"An OFS, *not* new capital",
+     "actual":["**SEBI cleared** the draft on Nov 6","**Public listing** of the Indian unit confirmed","**All-OFS** structure disclosed"],
+     "watch":["**Issue size** and price band","**Launch date** via the RHP","**Valuation** versus Nasdaq parent"],
+     "note":"Approval is not a listing date. Size and timing are not announced. Not investment advice."},
+    {"type":"takeaways","kicker":"Key takeaways","title":"What investors should *know*",
+     "points":["**SEBI approved** MakeMyTrip India's IPO; it is an offer for sale only","The Indian unit gets **no proceeds**; parent and ibibo Singapore sell shares","**Size, price and dates** are still unknown; watch for the prospectus"],
+     "cta":"Follow for daily market news that matters"}
+  ]
+}

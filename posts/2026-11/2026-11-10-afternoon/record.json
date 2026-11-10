@@ -1,0 +1,115 @@
+{
+ "cycle": "afternoon",
+ "headline": "MakeMyTrip India gets SEBI nod for all-OFS IPO",
+ "original_publication": [
+  {
+   "source": "PTI via The Federal",
+   "time": "2026-11-09 14:46 IST",
+   "url": "https://thefederal.com/category/business/makemytrip-india-ipo-sebi-nod-262311"
+  },
+  {
+   "source": "IPOGuru",
+   "time": "2026-11-09 16:22 IST",
+   "url": "https://www.ipoguru.in/news/makemytrip-india-ipo-sebi-nod-ofs"
+  },
+  {
+   "source": "Millennium Post",
+   "time": "2026-11-10 00:11 IST",
+   "url": "https://www.millenniumpost.in/business/makemytrips-india-arm-gets-sebi-nod-for-ipo-682660"
+  }
+ ],
+ "official_announcement_url": null,
+ "verification_timestamp": "2026-11-10T07:57:48.287299Z",
+ "importance_score": 70,
+ "shortlist": [
+  {
+   "story": "MakeMyTrip India gets SEBI nod for IPO (all OFS)",
+   "score": 70,
+   "status": "selected"
+  },
+  {
+   "story": "Wall Street rally / oil slide (Dow +1,104)",
+   "score": 84,
+   "status": "rejected: already the Nov 10 morning post"
+  },
+  {
+   "story": "SEBI currency-derivatives $5mn limit circular",
+   "score": 60,
+   "status": "rejected: dated Nov 5-6, not fresh"
+  },
+  {
+   "story": "Anti-cancer drug MRP cuts effective Nov 9",
+   "score": 55,
+   "status": "rejected: announced Oct 29, not new"
+  }
+ ],
+ "selection_reason": "Markets shut for Balipratipada; the freshest verified, non-duplicate story (SEBI nod reported Nov 9-10 by 3 outlets). Score is modest because no price/size data is public yet.",
+ "key_facts": [
+  {
+   "fact": "SEBI issued final observations Nov 6; visible on SEBI site Nov 9",
+   "sources": [
+    "The Federal/PTI",
+    "Millennium Post",
+    "IPOGuru"
+   ]
+  },
+  {
+   "fact": "Draft filed July 2026 via confidential route",
+   "sources": [
+    "The Federal/PTI",
+    "Millennium Post",
+    "IPOGuru"
+   ]
+  },
+  {
+   "fact": "Entirely OFS; sellers MakeMyTrip and ibibo Group Holdings (Singapore)",
+   "sources": [
+    "The Federal/PTI",
+    "Millennium Post",
+    "IPOGuru"
+   ]
+  },
+  {
+   "fact": "Proceeds go to parent/ibibo for growth, inorganic initiatives, buybacks; MMT India stays subsidiary, consolidated",
+   "sources": [
+    "The Federal/PTI",
+    "Millennium Post"
+   ]
+  },
+  {
+   "fact": "Approval valid 12 months from observations",
+   "sources": [
+    "IPOGuru"
+   ]
+  },
+  {
+   "fact": "Issue size not disclosed; July pre-filing reports cited $1bn+",
+   "sources": [
+    "Outlook Business",
+    "Angel One (July reports)"
+   ]
+  }
+ ],
+ "discrepancies_resolved": [
+  "Issue size/valuation not disclosed; no figure stated as fact; $1bn+ labelled as July reports.",
+  "12-month validity only in IPOGuru (standard SEBI rule); kept as general statement."
+ ],
+ "seo_keywords": {
+  "primary": "MakeMyTrip IPO SEBI approval",
+  "secondary": [
+   "offer for sale",
+   "ibibo Group",
+   "red herring prospectus",
+   "IPO India"
+  ]
+ },
+ "alt_text": [
+  "Cover: MakeMyTrip gets SEBI nod for India IPO, 100% OFS",
+  "Facts: draft in July, SEBI observations Nov 6, no fresh issue, 12-month validity",
+  "Why it matters: proceeds go to parent, MMT India stays subsidiary",
+  "Impact: what happened vs what to watch",
+  "Takeaways and follow call to action"
+ ],
+ "status": "pending",
+ "caption": "MakeMyTrip India gets SEBI nod for IPO: all offer for sale, no fresh issue 📈\n\nSEBI issued its final observations on Nov 6 for the IPO of MakeMyTrip (India), the Gurugram-based arm of Nasdaq-listed MakeMyTrip, and the approval became public on Nov 9. The company filed draft papers confidentially in July. The issue will be entirely an offer for sale (OFS) by parent MakeMyTrip and its unit ibibo Group Holdings (Singapore).\n\nWhy it matters: the Indian company will not receive any proceeds. The parent and ibibo Group expect to use the net proceeds for long-term growth, acquisitions and buybacks of securities, while MakeMyTrip India stays a subsidiary and its results continue to be consolidated. Issue size, price band and dates will be announced with the red herring prospectus.\n\nWatch the IPO pipeline on Dalal Street, the SEBI approval process and how the valuation compares with the Nasdaq-listed parent.\n\nWould you apply for the MakeMyTrip India IPO once the price band is out? Tell us in the comments 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: PTI via The Federal, Millennium Post, IPOGuru (Nov 9-10, 2026). Not investment advice.\n\n#IPO #StockMarketIndia #SEBI #MakeMyTrip #IPOIndia\n"
+}
