@@ -1,0 +1,140 @@
+{
+  "sources": "Reuters, Yahoo Finance, Yonhap, CNBC, Business Today, PTI (Nov 9-10, 2026)",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Overnight · Global cues",
+      "title": "Oil *crashes*, Wall Street roars",
+      "stat": "-5.85%",
+      "stat_label": "Brent crude's fall on Monday, to $92.57",
+      "stat_sub": "After Trump said new Iran strikes are unlikely",
+      "compare": [
+        {
+          "k": "Dow Jones",
+          "v": "+1,104 pts",
+          "tone": "up"
+        },
+        {
+          "k": "Nasdaq",
+          "v": "+2.74%",
+          "tone": "up"
+        }
+      ]
+    },
+    {
+      "type": "facts",
+      "kicker": "What happened",
+      "title": "A *risk-on* night for markets",
+      "stats": [
+        {
+          "k": "Brent crude",
+          "v": "$92.57",
+          "d": "-$5.75 at settle",
+          "tone": "dn"
+        },
+        {
+          "k": "WTI crude",
+          "v": "$86.85",
+          "d": "-4.38% at settle",
+          "tone": "dn"
+        },
+        {
+          "k": "S&P 500",
+          "v": "7,550",
+          "d": "+2.35%",
+          "tone": "up"
+        },
+        {
+          "k": "Dow Jones",
+          "v": "52,390",
+          "d": "+2.15%",
+          "tone": "up"
+        }
+      ],
+      "points": [
+        "Trump said new **Iran strikes** are unlikely while talks progress",
+        "Brent fell over **$7** after settlement, lowest since August",
+        "Chips led the US rebound; **Nvidia fell 4%+** on a board probe"
+      ]
+    },
+    {
+      "type": "chart",
+      "kicker": "Why it matters",
+      "title": "Cheaper oil lifts *risk appetite*",
+      "caption": "% change Nov 9 (US, oil) · Kospi open Nov 10",
+      "bars": [
+        {
+          "name": "Kospi",
+          "v": 5.49,
+          "hl": true
+        },
+        {
+          "name": "Nasdaq",
+          "v": 2.74
+        },
+        {
+          "name": "S&P 500",
+          "v": 2.35
+        },
+        {
+          "name": "Dow",
+          "v": 2.15
+        },
+        {
+          "name": "WTI",
+          "v": -4.38
+        },
+        {
+          "name": "Brent",
+          "v": -5.85,
+          "hl": true
+        }
+      ],
+      "why": [
+        {
+          "h": "Import bill",
+          "t": "India buys ~89% of its crude from abroad"
+        },
+        {
+          "h": "Rupee",
+          "t": "Closed at 93.93/$ Monday, helped by softer oil"
+        },
+        {
+          "h": "Inflation",
+          "t": "Lower fuel costs ease price pressure"
+        },
+        {
+          "h": "Foreign money",
+          "t": "FPIs bought $4.1bn+ of Indian shares in Nov"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "kicker": "Market impact",
+      "title": "What moved, what to *watch*",
+      "actual": [
+        "**Kospi +5.5%** at open, buy curb hit",
+        "**SoftBank +11%** in Tokyo",
+        "**Brent** at lowest since August"
+      ],
+      "watch": [
+        "**US CPI** tonight, 7 PM IST",
+        "**Wed, Nov 11**: NSE, BSE reopen",
+        "**Iran talks** and Hormuz shipping"
+      ],
+      "note": "NSE and BSE are shut today, Tue Nov 10, for Diwali Balipratipada. Not investment advice."
+    },
+    {
+      "type": "takeaways",
+      "kicker": "Key takeaways",
+      "title": "What investors should *know*",
+      "points": [
+        "**Brent fell 5.85%** to $92.57 on Iran peace hopes, after a 16% drop last week",
+        "Wall Street rallied over 2% and **Asia surged** today; Indian markets reopen Wednesday",
+        "Peace is not done: watch **Hormuz attacks, US inflation data and the Fed**"
+      ],
+      "cta": "Follow for daily market news that matters"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "cycle": "morning",
+  "date": "2026-11-10",
+  "headline": "Oil crashes nearly 6% on Iran peace hopes as Wall Street rallies over 2%; Asia surges, Indian markets shut for Balipratipada",
+  "original_publication": [
+    {
+      "source": "Reuters via Investing.com",
+      "time": "2026-11-09 (updated after settlement)",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-on-open-as-trump-says-fresh-iran-attacks-unlikely-5010359"
+    },
+    {
+      "source": "The Nation (Thailand)",
+      "time": "2026-11-10 07:12 UTC+7",
+      "url": "https://www.nationthailand.com/news/world/40073309"
+    },
+    {
+      "source": "Gulf News",
+      "time": "2026-11-10 03:29",
+      "url": "https://gulfnews.com/business/energy/oil-slides-as-iran-strike-fears-ease-brent-falls-1.500741822"
+    },
+    {
+      "source": "Yahoo Finance",
+      "time": "2026-11-09 14:23 PST",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-222339218.html"
+    },
+    {
+      "source": "JournalArta",
+      "time": "2026-11-10",
+      "url": "https://journalarta.com/en/2026/11/10/stock-market-today-sp-500-surges-2-35-to-7549-94-and-nasdaq-jumps-2-74-as-oil-falls-and-vix-drops/"
+    },
+    {
+      "source": "Yonhap via Korea Times",
+      "time": "2026-11-10 09:24 KST",
+      "url": "https://koreatimes.co.kr/economy/20261110/seoul-shares-open-sharply-higher-on-us-tech-rally-falling-oil-prices"
+    },
+    {
+      "source": "TradingKey",
+      "time": "2026-11-10",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262297302-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-nvda-sox-cpi-ppi-krx-tradingkey"
+    },
+    {
+      "source": "Business Today",
+      "time": "2026-11-10 07:05 IST",
+      "url": "https://www.businesstoday.in/markets/stocks/story/stock-market-holiday-are-bse-nse-closed-on-november-10-check-remaining-holidays-in-2026-566529-2026-11-10"
+    },
+    {
+      "source": "HDFC Sky / Telangana Today (PTI) - rupee",
+      "time": "2026-11-09",
+      "url": "https://hdfcsky.com/news/rupee-rises-5-paise-to-close-at-93-93-against-us-dollar"
+    },
+    {
+      "source": "Kiplinger - CPI preview",
+      "time": "2026-11-09",
+      "url": "https://www.kiplinger.com/investing/economy/october-2026-cpi-report-what-to-expect"
+    }
+  ],
+  "official_announcement_url": null,
+  "verification_timestamp": "2026-11-10T07:44:44+05:30",
+  "importance_score": 84,
+  "shortlist": [
+    {
+      "story": "Oil crashes ~6% on Iran peace hopes; Wall St +2%; Asia surges; India shut today",
+      "score": 84,
+      "status": "selected"
+    },
+    {
+      "story": "US October CPI due tonight; Fed hike expectations for Dec 9",
+      "score": 70,
+      "status": "merged as 'watch' item; data not out yet"
+    },
+    {
+      "story": "Kospi +5.5% with buy sidecar; SoftBank +11%",
+      "score": 66,
+      "status": "merged as context"
+    },
+    {
+      "story": "Nvidia board probe into CEO Jensen Huang",
+      "score": 55,
+      "status": "rejected: covered in Nov 9 morning post"
+    },
+    {
+      "story": "~$35bn of shares exit lock-in Nov 9-Feb 26",
+      "score": 60,
+      "status": "rejected: still single-source"
+    }
+  ],
+  "selection_reason": "Biggest overnight move with direct India impact: Brent -5.85% (India imports ~89% of its crude) plus a broad global risk-on rally while Indian markets are closed today, setting up Wednesday's reopening. Different topic from the previous two posts (FPI tax, brokerage calls/market close).",
+  "key_facts": [
+    {
+      "fact": "Brent settled -$5.75 (-5.85%) at $92.57; WTI -$3.98 (-4.38%) at $86.85 on Nov 9",
+      "sources": [
+        "Reuters/Investing.com",
+        "The Nation",
+        "Gulf News"
+      ]
+    },
+    {
+      "fact": "Brent fell more than $7 after settlement, lowest since late August",
+      "sources": [
+        "Reuters/Investing.com",
+        "The Nation"
+      ]
+    },
+    {
+      "fact": "Brent fell 16% the previous week",
+      "sources": [
+        "Reuters/Investing.com",
+        "Economies.com",
+        "The Nation"
+      ]
+    },
+    {
+      "fact": "Trump said highly unlikely to order fresh attacks on Iran while talks progress",
+      "sources": [
+        "Reuters",
+        "Economies.com",
+        "The Nation"
+      ]
+    },
+    {
+      "fact": "Dow 52,389.75 (+1,104.02, +2.15%); S&P 500 7,549.94 (+2.35%); Nasdaq 25,253.14 (+2.74%)",
+      "sources": [
+        "Yahoo Finance",
+        "JournalArta",
+        "VistaPGlobal"
+      ]
+    },
+    {
+      "fact": "Nvidia fell over 4% on board probe",
+      "sources": [
+        "Yahoo Finance",
+        "StockTitan (-5% intraday)",
+        "Investing.com quote -4.27%"
+      ]
+    },
+    {
+      "fact": "Kospi +5.49% at 9:15 KST, buy sidecar triggered",
+      "sources": [
+        "Yonhap/Korea Times",
+        "TradingKey (+5.55% open)"
+      ]
+    },
+    {
+      "fact": "SoftBank +11%",
+      "sources": [
+        "CNBC headline",
+        "TradingKey (+11.15%)"
+      ]
+    },
+    {
+      "fact": "NSE/BSE shut Nov 10 for Diwali Balipratipada, reopen Nov 11",
+      "sources": [
+        "Business Today",
+        "HDFC Sky",
+        "Upstox"
+      ]
+    },
+    {
+      "fact": "Rupee closed at 93.93/$ on Nov 9",
+      "sources": [
+        "HDFC Sky",
+        "Telangana Today (PTI)"
+      ]
+    },
+    {
+      "fact": "India imports ~89% of its crude",
+      "sources": [
+        "ThePrint (88.7% record)",
+        "Kashmir Life (nears 89%)"
+      ]
+    },
+    {
+      "fact": "FPIs bought >$4.1bn of Indian shares in November",
+      "sources": [
+        "Reuters via Business Recorder",
+        "Nov 9 evening post verification"
+      ]
+    },
+    {
+      "fact": "US October CPI due Nov 10 8:30 a.m. ET (7 PM IST)",
+      "sources": [
+        "Kiplinger",
+        "Nowflation"
+      ]
+    }
+  ],
+  "discrepancies_resolved": [
+    "Brent: JournalArta -5.5% to $92.91 (later quote) vs Reuters settlement -5.85% at $92.57; used Reuters settlement (confirmed by The Nation, Gulf News).",
+    "Kospi: +5.49% (Yonhap, 9:15) vs +5.55% (TradingKey, open); used +5.49% / ~5.5%.",
+    "Nvidia: -5.41% intraday vs ~-4.3% later; used 'over 4%'.",
+    "TradingKey headline calls the Kospi curb a 'circuit breaker'; Yonhap says buy sidecar; used 'buy curb'.",
+    "PHLX semiconductor +6.85% and Russell 2000 +3.15% single-source; omitted."
+  ],
+  "seo_keywords": {
+    "primary": "crude oil price crash",
+    "secondary": [
+      "Brent crude",
+      "Iran peace talks",
+      "Wall Street rally",
+      "Dow Jones",
+      "Nasdaq",
+      "Kospi",
+      "SoftBank",
+      "Sensex",
+      "Nifty",
+      "rupee",
+      "US CPI inflation",
+      "Strait of Hormuz"
+    ]
+  },
+  "alt_text": [
+    "Cover: Oil crashes, Wall Street roars - Brent down 5.85% to $92.57, Dow up 1,104 points, Nasdaq up 2.74%.",
+    "What happened: Brent $92.57, WTI $86.85, S&P 500 7,550 (+2.35%), Dow 52,390 (+2.15%) after Trump said new Iran strikes are unlikely.",
+    "Why it matters: bar chart of Kospi, Nasdaq, S&P 500, Dow gains and WTI, Brent falls, with India import bill, rupee, inflation and FPI notes.",
+    "Market impact: Kospi +5.5%, SoftBank +11%, Brent at lowest since August; watch US CPI tonight, Indian markets reopening Wednesday, Iran talks.",
+    "Key takeaways: oil slump on peace hopes, global rally, risks from Hormuz attacks, US inflation and the Fed."
+  ],
+  "status": "rendered",
+  "caption": "Crude oil price crashes nearly 6% on Iran peace hopes as Wall Street rallies over 2% 🛢️📈\n\nBrent crude settled down 5.85% at $92.57 a barrel on Monday and WTI fell 4.38% to $86.85, after President Trump said he was highly unlikely to order fresh attacks on Iran while peace talks progress. Brent slid more than $7 after settlement to its lowest since late August, following a 16% fall last week. The Dow Jones jumped 1,104 points (+2.15%), the S&P 500 rose 2.35% and the Nasdaq 2.74% as chip stocks led, even as Nvidia fell over 4% on a board probe.\n\nWhy it matters: India imports about 89% of its crude, so cheaper oil eases the import bill, inflation and pressure on the rupee, which closed at 93.93 per dollar on Monday. Asia followed Wall Street today: South Korea's Kospi opened up about 5.5% and SoftBank jumped 11% in Tokyo.\n\nNSE and BSE are shut today for Diwali Balipratipada and reopen Wednesday after Sensex and Nifty closed at an 8-month high. Next up: US CPI inflation data tonight (7 PM IST), Iran talks and shipping in the Strait of Hormuz.\n\nWill cheaper crude keep the Sensex and Nifty rally going when markets reopen? Tell us in the comments 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: Reuters, Yahoo Finance, Yonhap, CNBC, Business Today, PTI. Not investment advice.\n\n#StockMarketIndia #CrudeOil #BrentCrude #WallStreet #GlobalMarkets"
+}
