@@ -1,121 +1,136 @@
 [
-  {
-    "date": "2026-11-08",
-    "cycle": "afternoon",
-    "story": "Sensex up 10.62% in 7 sessions, defying Wall Street sell-off, ahead of Samvat 2083 Muhurat trading",
-    "score": 88,
-    "topic_tags": [
-      "sensex",
-      "nifty",
-      "fii",
-      "muhurat"
-    ],
-    "url": "https://www.instagram.com/p/DfeX-2_iEdU/",
-    "time": "2026-11-08T14:24:47+05:30",
-    "status": "published"
-  },
-  {
-    "date": "2026-11-08",
-    "cycle": "evening",
-    "story": "Samvat 2083 opens flat in Muhurat trading; Samvat 2082 scorecard: small/midcaps beat Sensex and Nifty amid record FPI selling",
-    "score": 84,
-    "topic_tags": [
-      "muhurat",
-      "samvat",
-      "smallcap",
-      "fpi-dii"
-    ],
-    "url": "https://www.instagram.com/p/Dfe2GGbDNAZ/",
-    "time": "2026-11-08T18:47:58+05:30",
-    "status": "published"
-  },
-  {
-    "date": "2026-11-09",
-    "cycle": "morning",
-    "story": "Nvidia board probes CEO Jensen Huang over suspected Chinese spy links; Asia rebounds after AI rout that drove FII money into India",
-    "score": 79,
-    "topic_tags": [
-      "nvidia",
-      "ai-stocks",
-      "global-cues",
-      "fii"
-    ],
-    "url": "https://www.instagram.com/p/DfgPN7VCla3/",
-    "time": "2026-11-09T07:46:46+05:30",
-    "status": "published"
-  },
-  {
-    "date": "2026-11-09",
-    "cycle": "afternoon",
-    "story": "Fund industry pushes India to scrap capital gains tax for foreign investors as 2026 FPI outflows near record $27bn",
-    "score": 84,
-    "topic_tags": [
-      "capital-gains-tax",
-      "fpi",
-      "tax-policy",
-      "budget"
-    ],
-    "url": "https://www.instagram.com/p/DfgyIAuDvhW/",
-    "time": "2026-11-09T12:51:45+05:30",
-    "status": "published"
-  },
-  {
-    "date": "2026-11-09",
-    "cycle": "evening",
-    "story": "Citi raises Nifty target to 28,000 and HSBC upgrades India to overweight as Sensex, Nifty close at 8-month high",
-    "score": 85,
-    "topic_tags": [
-      "sensex",
-      "nifty",
-      "brokerage-calls",
-      "psu-banks"
-    ],
-    "url": "https://www.instagram.com/p/Dfhb3wdCGmr/",
-    "time": "2026-11-09T18:56:35+05:30",
-    "status": "published"
-  },
-  {
-    "date": "2026-11-10",
-    "cycle": "morning",
-    "story": "Oil crashes nearly 6% on Iran peace hopes as Wall Street rallies 2%+; Asia surges while Indian markets shut for Balipratipada",
-    "score": 84,
-    "topic_tags": [
-      "crude-oil",
-      "iran",
-      "global-cues",
-      "wall-street"
-    ],
-    "url": "https://www.instagram.com/p/Dfiz8GtiBnJ/",
-    "time": "2026-11-10T07:46:07+05:30",
-    "status": "published"
-  },
-  {
-    "date": "2026-11-10",
-    "cycle": "afternoon",
-    "story": "MakeMyTrip India gets SEBI nod for all-OFS IPO",
-    "score": 70,
-    "topic_tags": [
-      "ipo",
-      "sebi",
-      "makemytrip"
-    ],
-    "url": "https://www.instagram.com/p/DfjbT-Zjp5A/",
-    "time": "2026-11-10T13:30:04+05:30",
-    "status": "published"
-  },
-  {
-    "date": "2026-11-10",
-    "cycle": "evening",
-    "story": "GIFT Nifty up ~1% signals gap-up as Indian markets reopen Nov 11; Nifty at 25,045, Brent down 5.85%",
-    "score": 72,
-    "topic_tags": [
-      "gift-nifty",
-      "nifty",
-      "crude-oil",
-      "fpi"
-    ],
-    "url": "https://www.instagram.com/p/DfkAKVxDf67/",
-    "time": "2026-11-10T18:52:08+05:30",
-    "status": "published"
-  }
+ {
+  "date": "2026-11-08",
+  "cycle": "afternoon",
+  "story": "Sensex up 10.62% in 7 sessions, defying Wall Street sell-off, ahead of Samvat 2083 Muhurat trading",
+  "score": 88,
+  "topic_tags": [
+   "sensex",
+   "nifty",
+   "fii",
+   "muhurat"
+  ],
+  "url": "https://www.instagram.com/p/DfeX-2_iEdU/",
+  "time": "2026-11-08T14:24:47+05:30",
+  "status": "published"
+ },
+ {
+  "date": "2026-11-08",
+  "cycle": "evening",
+  "story": "Samvat 2083 opens flat in Muhurat trading; Samvat 2082 scorecard: small/midcaps beat Sensex and Nifty amid record FPI selling",
+  "score": 84,
+  "topic_tags": [
+   "muhurat",
+   "samvat",
+   "smallcap",
+   "fpi-dii"
+  ],
+  "url": "https://www.instagram.com/p/Dfe2GGbDNAZ/",
+  "time": "2026-11-08T18:47:58+05:30",
+  "status": "published"
+ },
+ {
+  "date": "2026-11-09",
+  "cycle": "morning",
+  "story": "Nvidia board probes CEO Jensen Huang over suspected Chinese spy links; Asia rebounds after AI rout that drove FII money into India",
+  "score": 79,
+  "topic_tags": [
+   "nvidia",
+   "ai-stocks",
+   "global-cues",
+   "fii"
+  ],
+  "url": "https://www.instagram.com/p/DfgPN7VCla3/",
+  "time": "2026-11-09T07:46:46+05:30",
+  "status": "published"
+ },
+ {
+  "date": "2026-11-09",
+  "cycle": "afternoon",
+  "story": "Fund industry pushes India to scrap capital gains tax for foreign investors as 2026 FPI outflows near record $27bn",
+  "score": 84,
+  "topic_tags": [
+   "capital-gains-tax",
+   "fpi",
+   "tax-policy",
+   "budget"
+  ],
+  "url": "https://www.instagram.com/p/DfgyIAuDvhW/",
+  "time": "2026-11-09T12:51:45+05:30",
+  "status": "published"
+ },
+ {
+  "date": "2026-11-09",
+  "cycle": "evening",
+  "story": "Citi raises Nifty target to 28,000 and HSBC upgrades India to overweight as Sensex, Nifty close at 8-month high",
+  "score": 85,
+  "topic_tags": [
+   "sensex",
+   "nifty",
+   "brokerage-calls",
+   "psu-banks"
+  ],
+  "url": "https://www.instagram.com/p/Dfhb3wdCGmr/",
+  "time": "2026-11-09T18:56:35+05:30",
+  "status": "published"
+ },
+ {
+  "date": "2026-11-10",
+  "cycle": "morning",
+  "story": "Oil crashes nearly 6% on Iran peace hopes as Wall Street rallies 2%+; Asia surges while Indian markets shut for Balipratipada",
+  "score": 84,
+  "topic_tags": [
+   "crude-oil",
+   "iran",
+   "global-cues",
+   "wall-street"
+  ],
+  "url": "https://www.instagram.com/p/Dfiz8GtiBnJ/",
+  "time": "2026-11-10T07:46:07+05:30",
+  "status": "published"
+ },
+ {
+  "date": "2026-11-10",
+  "cycle": "afternoon",
+  "story": "MakeMyTrip India gets SEBI nod for all-OFS IPO",
+  "score": 70,
+  "topic_tags": [
+   "ipo",
+   "sebi",
+   "makemytrip"
+  ],
+  "url": "https://www.instagram.com/p/DfjbT-Zjp5A/",
+  "time": "2026-11-10T13:30:04+05:30",
+  "status": "published"
+ },
+ {
+  "date": "2026-11-10",
+  "cycle": "evening",
+  "story": "GIFT Nifty up ~1% signals gap-up as Indian markets reopen Nov 11; Nifty at 25,045, Brent down 5.85%",
+  "score": 72,
+  "topic_tags": [
+   "gift-nifty",
+   "nifty",
+   "crude-oil",
+   "fpi"
+  ],
+  "url": "https://www.instagram.com/p/DfkAKVxDf67/",
+  "time": "2026-11-10T18:52:08+05:30",
+  "status": "published"
+ },
+ {
+  "date": "2026-11-11",
+  "cycle": "morning",
+  "story": "Hot US October CPI (0.4% vs 0.3% expected) rattles Wall Street, firms Fed December hike bets ahead of Indian reopen",
+  "score": 82,
+  "topic_tags": [
+   "us-cpi",
+   "fed",
+   "wall-street",
+   "fpi"
+  ],
+  "url": "https://www.instagram.com/p/DflYeVVimJ1/",
+  "time": "2026-11-11T07:43:50+05:30",
+  "status": "published"
+ }
 ]

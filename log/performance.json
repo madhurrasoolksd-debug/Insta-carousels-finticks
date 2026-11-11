@@ -1,6 +1,6 @@
 {
- "pulled": "2026-11-10",
- "note": "6 posts returned; all zero except Nov 9 evening (reach 1, views 2). Likely cached trial data.",
+ "pulled": "2026-11-11T07:45:00+05:30",
+ "note": "9 posts returned; all ~zero (Nov 9 evening reach 1, views 2; Nov 10 afternoon views 1). Likely cached trial-plan data lag.",
  "posts": [
   {
    "media_id": "18082711898372648",
@@ -11,11 +11,67 @@
    "engagement": 0
   },
   {
+   "media_id": "18112073585182830",
+   "permalink": "https://www.instagram.com/p/DfeX-2_iEdU/",
+   "timestamp": "2026-11-08T08:54:47+0000",
+   "reach": 0,
+   "views": 0,
+   "engagement": 0
+  },
+  {
    "media_id": "18121557545057312",
    "permalink": "https://www.instagram.com/p/Dfhb3wdCGmr/",
    "timestamp": "2026-11-09T13:26:35+0000",
    "reach": 1,
    "views": 2,
+   "engagement": 0
+  },
+  {
+   "media_id": "18175717024457928",
+   "permalink": "https://www.instagram.com/p/DfgyIAuDvhW/",
+   "timestamp": "2026-11-09T07:21:45+0000",
+   "reach": 0,
+   "views": 0,
+   "engagement": 0
+  },
+  {
+   "media_id": "18107375501578917",
+   "permalink": "https://www.instagram.com/p/DfgPN7VCla3/",
+   "timestamp": "2026-11-09T02:16:46+0000",
+   "reach": 0,
+   "views": 0,
+   "engagement": 0
+  },
+  {
+   "media_id": "18644380756016782",
+   "permalink": "https://www.instagram.com/p/DfkAKVxDf67/",
+   "timestamp": "2026-11-10T13:22:08+0000",
+   "reach": 0,
+   "views": 0,
+   "engagement": 0
+  },
+  {
+   "media_id": "18100803269390139",
+   "permalink": "https://www.instagram.com/p/DfjbT-Zjp5A/",
+   "timestamp": "2026-11-10T08:00:04+0000",
+   "reach": 0,
+   "views": 1,
+   "engagement": 0
+  },
+  {
+   "media_id": "18164459311500218",
+   "permalink": "https://www.instagram.com/p/Dfiz8GtiBnJ/",
+   "timestamp": "2026-11-10T02:16:07+0000",
+   "reach": 0,
+   "views": 0,
+   "engagement": 0
+  },
+  {
+   "media_id": "18108964448248928",
+   "permalink": "https://www.instagram.com/p/DflYeVVimJ1/",
+   "timestamp": "2026-11-11T02:13:50+0000",
+   "reach": 0,
+   "views": 0,
    "engagement": 0
   }
  ],
