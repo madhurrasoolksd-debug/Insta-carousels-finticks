@@ -1,6 +1,6 @@
 {
- "pulled": "2026-11-11T07:45:00+05:30",
- "note": "9 posts returned; all ~zero (Nov 9 evening reach 1, views 2; Nov 10 afternoon views 1). Likely cached trial-plan data lag.",
+ "pulled": "2026-11-11T12:50:00+05:30",
+ "note": "9 posts returned (new afternoon post not yet in data); all ~zero (Nov 9 evening reach 1, views 2; Nov 10 afternoon views 1). Likely cached trial-plan data lag.",
  "posts": [
   {
    "media_id": "18082711898372648",
