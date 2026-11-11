@@ -17,3 +17,8 @@
 - 2026-11-10: Holiday-day cycles (markets shut) are thin on fresh Indian news; a reopen-preview angle (GIFT Nifty + previously verified closes) works but overlaps earlier topics. Plan 'week-ahead'/macro (US CPI, trade deal) stories earlier in the day to avoid repeats.
 - 2026-11-10: Research budget (8 searches) ran out before the 7 PM IST US CPI release; for evening cycles on CPI days, spend fewer searches on generic Indian-market queries (results were stale/noisy) and target the scheduled event directly.
 - 2026-11-10: Single-source live figures (e.g. GIFT Nifty level) should be stated approximately and attributed; exact levels with mismatched bases were dropped.
+
+- 2026-11-11 (evening review): Windsor insights remain ~0 for all 11 posts (max reach 1, views 3 on the Nov 11 afternoon post); still a trial-plan data lag, no performance conclusions possible.
+- 2026-11-11: Standard searches returned mostly 2025 pages for same-day close; one 'extended' search with the exact date plus 'market close report' found the Nov 11 2026 HDFC Sky/Business Standard reports. For evening cycles, use that query pattern early.
+- 2026-11-11: Same-day close figures were mostly single-source beyond index levels; sector/stock moves, FPI totals and breadth were dropped. Verified index levels were cross-checked by arithmetic against prior closes (81,879.40-772.75 = 81,106.65).
+- 2026-11-11: Angle 'gains pared from early +1.5%' differentiated the close post from the afternoon opening post; avoid a third Sensex/Nifty-level post tomorrow unless a major new development.
