@@ -1,0 +1,28 @@
+{
+  "sources": "TheStreet, StockTitan, Bloomberg via Business Standard, Reuters, Yahoo Finance (Nov 8-10, 2026)",
+  "slides": [
+    {"type":"cover","kicker":"Wall Street · Fed Watch","title":"Hot US inflation *rattles* Wall Street","stat":"0.4%","stat_label":"US CPI rose in October","stat_sub":"Economists had expected 0.3%",
+     "compare":[{"k":"Core CPI","v":"+0.3%","tone":"dn"},{"k":"Core expected","v":"+0.2%","tone":"or"}]},
+    {"type":"facts","kicker":"What happened","title":"The *October* CPI beat",
+     "stats":[
+      {"k":"Headline CPI","v":"+0.4%","d":"vs 0.3% expected","tone":"dn"},
+      {"k":"Core CPI","v":"+0.3%","d":"vs 0.2% expected","tone":"dn"},
+      {"k":"September CPI","v":"+0.6%","d":"biggest since April","tone":"or"},
+      {"k":"Shelter","v":"+0.3%","d":"Sept: +0.4%","tone":"up"}],
+     "points":["Last US CPI report before the Fed's **December** meeting","Fed's **Waller**: a 50bp hike should be considered if core hits 0.3%","BLS has **no 12-month** rate: October 2025 CPI was skipped"]},
+    {"type":"facts","kicker":"Why it matters","title":"Wall Street *reacts*",
+     "stats":[
+      {"k":"Dow","v":"52,232","d":"-0.30% on Nov 10","tone":"dn"},
+      {"k":"S&P 500","v":"7,521","d":"-0.38% on Nov 10","tone":"dn"},
+      {"k":"Nasdaq","v":"25,066","d":"-0.74% on Nov 10","tone":"dn"},
+      {"k":"Fed December","v":"Hike","d":"25bp or 50bp debated","tone":"or"}],
+     "points":["Markets had rallied **over 2%** the day before, then gave back gains","A bigger Fed hike would keep **US rates higher** for longer","Higher US rates can pull foreign money out of **emerging markets**"]},
+    {"type":"split","kicker":"Market impact","title":"Reaction vs *what to watch*",
+     "actual":["**Nasdaq** fell 0.74%","**S&P 500** fell 0.38%","**CPI** beat forecasts"],
+     "watch":["**Nifty** on reopen today","**Fed** December call","**FPI flows** into India"],
+     "note":"Indian markets reopen Nov 11 after the Balipratipada holiday. Not investment advice."},
+    {"type":"takeaways","kicker":"Key takeaways","title":"What investors should *know*",
+     "points":["**US inflation** came in hotter than forecast: 0.4% headline, 0.3% core","**Fed hike** in December now looks firmer, with 25bp and 50bp both debated","**Indian markets** reopen today and must price in this overnight US shift"],
+     "cta":"Follow for daily market news that matters"}
+  ]
+}

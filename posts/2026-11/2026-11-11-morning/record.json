@@ -1,0 +1,105 @@
+{
+ "cycle": "morning",
+ "headline": "Hot US October CPI (0.4% vs 0.3% expected) rattles Wall Street, firms Fed December hike bets, ahead of Indian reopen",
+ "original_publication": [
+  {
+   "source": "TheStreet",
+   "time": "2026-11-10 06:44 EST, updated 16:37 EST",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+  },
+  {
+   "source": "StockTitan",
+   "time": "2026-11-10 08:35 EST",
+   "url": "https://www.stocktitan.net/articles/october-2026-cpi-inflation-report"
+  },
+  {
+   "source": "Bloomberg via Business Standard (preview)",
+   "time": "2026-11-08",
+   "url": "https://www.business-standard.com/world-news/us-inflation-set-to-cool-in-october-after-two-months-of-sharp-increases-126110800246_1.html"
+  }
+ ],
+ "official_announcement_url": null,
+ "verification_timestamp": "2026-11-11T02:30:00Z",
+ "importance_score": 82,
+ "shortlist": [
+  {
+   "story": "Hot US Oct CPI / Fed hike bets / Wall Street fall",
+   "score": 82,
+   "status": "selected"
+  },
+  {
+   "story": "GIFT Nifty / Indian reopen preview",
+   "score": 62,
+   "status": "rejected: no verified same-day figures; already covered Nov 10 evening"
+  },
+  {
+   "story": "Q2 results due today",
+   "score": 50,
+   "status": "rejected: no verified specific story found in budget"
+  }
+ ],
+ "selection_reason": "Most important fresh development since the last cycle: US CPI released after Indian close on Nov 10, directly affects Fed path, FPI flows and the Nifty/Sensex reopen on Nov 11. Different topic from previous two posts (GIFT Nifty, MakeMyTrip IPO).",
+ "key_facts": [
+  {
+   "fact": "US Oct CPI +0.4% m/m vs 0.3% expected; core +0.3% vs 0.2%; Sept +0.6%",
+   "sources": [
+    "TheStreet",
+    "StockTitan",
+    "Bloomberg via Business Standard"
+   ]
+  },
+  {
+   "fact": "Shelter +0.3% (Sept +0.4%)",
+   "sources": [
+    "StockTitan (single source)"
+   ]
+  },
+  {
+   "fact": "Waller: 50bp hike should be considered if core >=0.3%",
+   "sources": [
+    "TheStreet",
+    "StockTitan"
+   ]
+  },
+  {
+   "fact": "Dow 52,231.89 -0.30%; S&P 7,520.93 -0.38%; Nasdaq 25,066 -0.74% on Nov 10",
+   "sources": [
+    "TheStreet (levels)",
+    "Yahoo Finance/Reuters/Avalon headlines confirm decline",
+    "Dow consistent with Nov 9 close 52,389.75"
+   ]
+  },
+  {
+   "fact": "BLS no 12-month rate due to skipped Oct 2025 CPI",
+   "sources": [
+    "Bloomberg via Business Standard",
+    "StockTitan"
+   ]
+  }
+ ],
+ "discrepancies_resolved": [
+  "Index closing levels are single-source (TheStreet); direction corroborated by Yahoo/Reuters/Avalon headlines and Dow level consistent with prior verified close.",
+  "10-yr yield 5.00%, 2-yr +17bp, gold, oil figures single-source: omitted from slides.",
+  "No verified same-day GIFT Nifty/Asian figures (search budget used); Indian market impact kept qualitative."
+ ],
+ "seo_keywords": {
+  "primary": "US inflation Fed rate hike Wall Street",
+  "secondary": [
+   "CPI",
+   "Nasdaq",
+   "S&P 500",
+   "Nifty 50",
+   "Sensex",
+   "FPI"
+  ]
+ },
+ "alt_text": [
+  "Cover: Hot US inflation rattles Wall Street, CPI +0.4%",
+  "Facts: headline CPI 0.4%, core 0.3%, Sept 0.6%, shelter 0.3%",
+  "Wall Street reaction: Dow, S&P 500, Nasdaq all lower",
+  "Reaction vs what to watch",
+  "Takeaways and follow CTA"
+ ],
+ "status": "ready",
+ "caption": "Hot US inflation rattles Wall Street as Fed rate hike bets firm up 📉\n\nUS consumer prices rose 0.4% in October, above the 0.3% economists expected, while core CPI rose 0.3% versus 0.2% forecast. On Nov 10 the Nasdaq fell 0.74%, the S&P 500 0.38% and the Dow 0.30%, giving back part of the previous day's rally.\n\nWhy it matters: this was the last US CPI report before the Federal Reserve's December meeting. Fed Governor Christopher Waller said a 50 basis point hike should be considered if core inflation came in at 0.3% or higher. Higher US interest rates for longer can pull foreign money out of emerging markets like India, so FPI flows and the Nifty and Sensex reaction on the reopen after Balipratipada are worth watching.\n\nWill a bigger Fed hike cool foreign buying in Indian stocks? Tell us in the comments 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: TheStreet, StockTitan, Bloomberg via Business Standard (Nov 8-10, 2026). Not investment advice.\n\n#USInflation #FedRateHike #Nifty50 #Sensex #StockMarketIndia\n"
+}
