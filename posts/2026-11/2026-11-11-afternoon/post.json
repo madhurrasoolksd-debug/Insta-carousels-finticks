@@ -1,0 +1,28 @@
+{
+  "sources": "HDFC Sky, Investing.com India (Nov 11, 2026)",
+  "slides": [
+    {"type":"cover","kicker":"Dalal Street · Reopening","title":"Dalal Street reopens with a *1.5% jump*","stat":"+1.5%","stat_label":"Sensex in early trade today","stat_sub":"First session after the Diwali holiday",
+     "compare":[{"k":"Sensex","v":"~82,350","tone":"up"},{"k":"Nifty 50","v":"~25,360","tone":"up"}]},
+    {"type":"facts","kicker":"What happened","title":"The *reopening* rally",
+     "stats":[
+      {"k":"Sensex","v":"+1.5%","d":"early trade, Nov 11","tone":"up"},
+      {"k":"Nifty 50","v":"+1.3%","d":"early trade, Nov 11","tone":"up"},
+      {"k":"Sensex close","v":"81,107","d":"last close, Nov 9","tone":"or"},
+      {"k":"Nifty close","v":"25,045","d":"last close, Nov 9","tone":"or"}],
+     "points":["Markets were **shut Nov 10** for Diwali-Balipratipada","Rally was **broad-based**, led by banks and autos","Cited drivers: **softer crude**, global cues, post-holiday buying"]},
+    {"type":"facts","kicker":"Why it matters","title":"India *defies* Wall Street",
+     "stats":[
+      {"k":"S&P 500","v":"-0.38%","d":"on Nov 10","tone":"dn"},
+      {"k":"Nasdaq","v":"-0.74%","d":"on Nov 10","tone":"dn"},
+      {"k":"Brent","v":"$92.4","d":"still below $100","tone":"or"},
+      {"k":"Bank Nifty","v":"+1%+","d":"banks lead the gain","tone":"up"}],
+     "points":["India opened higher despite a **weak US** session","Crude below **$100** helps India, a major oil importer","Banks are **heavyweights**, so their gains lift the indices"]},
+    {"type":"split","kicker":"Market impact","title":"Reaction vs *what to watch*",
+     "actual":["**Sensex** up ~1.5% early","**Nifty** up ~1.3% early","**Bank Nifty** up over 1%"],
+     "watch":["**FPI flows** after US CPI","**Brent** vs $100 mark","**Follow-through** tomorrow"],
+     "note":"Early-trade figures (around 9:20-9:40 AM IST); levels change through the day. Not investment advice."},
+    {"type":"takeaways","kicker":"Key takeaways","title":"What investors should *know*",
+     "points":["**Sensex** and **Nifty** jumped about 1.5% and 1.3% on reopening after Diwali","India rose even as **Wall Street fell** on Nov 10: S&P 500 -0.38%, Nasdaq -0.74%","**Crude and FPI flows** are the swing factors to track from here"],
+     "cta":"Follow for daily market news that matters"}
+  ]
+}

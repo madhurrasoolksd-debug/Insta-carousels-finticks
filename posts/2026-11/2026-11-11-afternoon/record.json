@@ -1,0 +1,111 @@
+{
+ "cycle": "afternoon",
+ "headline": "Sensex, Nifty jump ~1.5%/1.3% on reopening after Diwali break while Wall Street slips",
+ "original_publication": [
+  {
+   "source": "HDFC Sky",
+   "time": "2026-11-11 10:20 IST (data ~9:20 IST)",
+   "url": "https://hdfcsky.com/news/bse-nse-sensex-november-11-2026-open-report-sensex-zooms-1300-pts-nifty-races-past-25350-as-oil-remains-soft"
+  },
+  {
+   "source": "Investing.com India",
+   "time": "2026-11-11 09:37 IST",
+   "url": "https://in.investing.com/news/stock-market-news/indian-stocks-rally-as-nifty-and-sensex-surge-on-broadbased-buying-5695788"
+  }
+ ],
+ "official_announcement_url": null,
+ "verification_timestamp": "2026-11-11T12:55:00+05:30",
+ "importance_score": 78,
+ "shortlist": [
+  {
+   "story": "Post-Diwali reopening rally in Sensex/Nifty",
+   "score": 78
+  },
+  {
+   "story": "RBI/SEBI circulars (nothing fresh found for Nov 11)",
+   "score": 0,
+   "rejection": "no verified current item found within search budget"
+  },
+  {
+   "story": "Q2 results/IPO items",
+   "score": 0,
+   "rejection": "search results were stale (2025 articles)"
+  }
+ ],
+ "selection_reason": "Only verified, fresh, major development of the day; genuinely new (first session after holiday) despite overlap with earlier Nifty tags.",
+ "key_facts": [
+  {
+   "fact": "Sensex ~+1.5% (82,409.51 +1.61% at ~9:20; 82,295.40 +1.47% at ~9:37)",
+   "sources": [
+    "HDFC Sky",
+    "Investing.com India"
+   ]
+  },
+  {
+   "fact": "Nifty ~+1.3% (25,375.85 +1.32%; 25,354.60 +1.24%)",
+   "sources": [
+    "HDFC Sky",
+    "Investing.com India"
+   ]
+  },
+  {
+   "fact": "Previous close Nov 9: Sensex 81,106.65, Nifty 25,044.65",
+   "sources": [
+    "HDFC Sky (two articles)",
+    "earlier verified posts"
+   ]
+  },
+  {
+   "fact": "Brent ~$92.4 (+1%), below $100",
+   "sources": [
+    "HDFC Sky $92.42",
+    "Investing.com $92.41"
+   ]
+  },
+  {
+   "fact": "Bank Nifty up over 1%",
+   "sources": [
+    "HDFC Sky +1.24%",
+    "Investing.com +1.94%"
+   ]
+  },
+  {
+   "fact": "S&P 500 -0.38%, Nasdaq -0.74% on Nov 10",
+   "sources": [
+    "HDFC Sky",
+    "2026-11-11 morning record (TheStreet etc.)"
+   ]
+  },
+  {
+   "fact": "Markets shut Nov 10 for Diwali-Balipratipada",
+   "sources": [
+    "HDFC Sky",
+    "Free Press Journal",
+    "Tribune"
+   ]
+  }
+ ],
+ "discrepancies_resolved": [
+  "Index snapshots differ by time (9:20 vs 9:37 IST) so approximate (~) values used; Bank Nifty gain differs (1.24% vs 1.94%) so stated as 'over 1%'. HDFC Sky labelled prior close as Nov 10 in one place; markets were shut, so Nov 9 close used. Single-source items dropped: highest since Feb 27, sector/stock moves, Asia moves, rupee 93.82, FPI amounts."
+ ],
+ "seo_keywords": {
+  "primary": "Sensex Nifty reopening rally",
+  "secondary": [
+   "Nifty 50",
+   "Dalal Street",
+   "Bank Nifty",
+   "Brent crude",
+   "FPI flows",
+   "Diwali holiday"
+  ]
+ },
+ "alt_text": [
+  "Cover: Dalal Street reopens with a 1.5% Sensex jump, Sensex ~82,350, Nifty ~25,360",
+  "Facts: Sensex +1.5%, Nifty +1.3% early trade vs Nov 9 closes",
+  "Why it matters: S&P 500 -0.38%, Nasdaq -0.74%, Brent $92.4, Bank Nifty +1%",
+  "Split: early reactions vs things to watch",
+  "Takeaways: reopening rally, India defies Wall Street, watch crude and FPI flows"
+ ],
+ "status": "ready",
+ "caption": "Sensex and Nifty jump on reopening after the Diwali break while Wall Street slips 📈\n\nIndian markets reopened on Nov 11 after the Balipratipada holiday, and the Sensex rose about 1.5% to roughly 82,350 in early trade while the Nifty 50 gained about 1.3% to around 25,360. The previous close on Nov 9 was 81,107 (Sensex) and 25,045 (Nifty).\n\nWhy it matters: India rallied even though the S&P 500 fell 0.38% and the Nasdaq 0.74% on Nov 10. Brent crude near $92 a barrel, still below $100, eases pressure on an oil-importing economy, and bank stocks led the gains with the Bank Nifty up over 1%. FPI flows after the hot US inflation print and the crude price are the next things to watch for the Nifty 50 and Sensex.\n\nDo you think the post-Diwali rally can hold if foreign flows turn? Tell us below 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nEarly-trade figures (about 9:20-9:40 AM IST) can change during the day. Sources: HDFC Sky, Investing.com India (Nov 11, 2026). Not investment advice.\n\n#StockMarketIndia #Sensex #Nifty50 #DalalStreet #BankNifty\n"
+}
