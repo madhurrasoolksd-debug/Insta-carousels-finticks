@@ -1,0 +1,28 @@
+{
+  "sources": "HDFC Sky, Business Standard (Nov 11, 2026)",
+  "slides": [
+    {"type":"cover","kicker":"Dalal Street · Market close","title":"Sensex ends *773 points* higher","stat":"+773","stat_label":"Sensex points gained at close","stat_sub":"Gains pared from the ~1.5% early jump",
+     "compare":[{"k":"Sensex","v":"81,879","tone":"up"},{"k":"Nifty 50","v":"25,255","tone":"up"}]},
+    {"type":"facts","kicker":"What happened","title":"The *closing* bell",
+     "stats":[
+      {"k":"Sensex","v":"81,879","d":"+772.75 pts, +0.95%","tone":"up"},
+      {"k":"Nifty 50","v":"25,255","d":"+210.40 pts, +0.84%","tone":"up"},
+      {"k":"Early trade","v":"~+1.5%","d":"Sensex, morning","tone":"or"},
+      {"k":"Brent","v":"~$92","d":"near 2-month low","tone":"or"}],
+     "points":["Gains **pared** after a ~1.5% morning jump","First close after the **Diwali holiday** break","Led by **autos and banks**, per HDFC Sky"]},
+    {"type":"facts","kicker":"Why it matters","title":"Crude helps, *Fed* worries",
+     "stats":[
+      {"k":"Brent","v":"~$92","d":"oil importer relief","tone":"up"},
+      {"k":"US CPI","v":"0.4%","d":"Oct, vs 0.3% est.","tone":"dn"},
+      {"k":"Sensex","v":"81,107","d":"prev close, Nov 9","tone":"or"},
+      {"k":"Nifty 50","v":"25,045","d":"prev close, Nov 9","tone":"or"}],
+     "points":["Cheaper **crude** eases pressure on India","Hot US CPI firmed **Fed December hike** bets","Wall Street fell overnight, a **global headwind**"]},
+    {"type":"split","kicker":"Market impact","title":"Reaction vs *what to watch*",
+     "actual":["**Sensex** +773 pts, 81,879","**Nifty** +210 pts, 25,255","**Gains** pared from early high"],
+     "watch":["**Brent** crude near $92","**Fed** hike bets after CPI","**FPI** flows next session"],
+     "note":"Closing figures for Nov 11, 2026. Watch items are not predictions. Not investment advice."},
+    {"type":"takeaways","kicker":"Key takeaways","title":"What investors should *know*",
+     "points":["**Sensex** rose 773 points to 81,879 and **Nifty** 210 to 25,255 at the close","The rally was **pared** from a ~1.5% morning jump as the session wore on","**Crude** and **Fed hike bets** are the swing factors from here"],
+     "cta":"Follow for daily market news that matters"}
+  ]
+}

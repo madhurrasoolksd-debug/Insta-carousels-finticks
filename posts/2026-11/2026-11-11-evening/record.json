@@ -1,0 +1,94 @@
+{
+ "cycle": "evening",
+ "headline": "Sensex ends 773 points higher as post-Diwali rally pares early gains; Nifty at 25,255",
+ "original_publication": [
+  {
+   "source": "HDFC Sky",
+   "time": "2026-11-11 16:19 IST",
+   "url": "https://hdfcsky.com/news/market-close-report-today-november-11-2026-nifty-sensex-soar-as-auto-banking-shine"
+  },
+  {
+   "source": "Business Standard",
+   "time": "2026-11-11 (market close, headline 'Sensex pares gains but ends 773 pts up, Nifty at 25,255')",
+   "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
+  }
+ ],
+ "official_announcement_url": null,
+ "verification_timestamp": "2026-11-11T19:00:00+05:30",
+ "importance_score": 74,
+ "shortlist": [
+  {
+   "story": "Nov 11 market close: Sensex +773, Nifty 25,255, crude near 2-month low",
+   "score": 74
+  },
+  {
+   "story": "RBI/SEBI circulars",
+   "score": 0,
+   "rejection": "only stale 2025 results found"
+  },
+  {
+   "story": "Q2 results after hours",
+   "score": 0,
+   "rejection": "search results stale/2025"
+  }
+ ],
+ "selection_reason": "Only verified fresh major development for the evening cycle: the close of the first session after the Diwali break; angle (gains pared from early +1.5%) differs from the afternoon opening post.",
+ "key_facts": [
+  {
+   "fact": "Sensex 81,879.40, +772.75 pts (+0.95%)",
+   "sources": [
+    "HDFC Sky",
+    "Business Standard headline (773 pts)"
+   ]
+  },
+  {
+   "fact": "Nifty 25,255.05, +210.40 pts (+0.84%)",
+   "sources": [
+    "HDFC Sky",
+    "Business Standard headline (25,255)"
+   ]
+  },
+  {
+   "fact": "Brent ~$92, near two-month low",
+   "sources": [
+    "HDFC Sky ($92)",
+    "Business Standard ($91.88)"
+   ]
+  },
+  {
+   "fact": "Prior close Nov 9: Sensex 81,107 / Nifty 25,045",
+   "sources": [
+    "afternoon record; arithmetic check 81,879.40-772.75, 25,255.05-210.40"
+   ]
+  },
+  {
+   "fact": "US Oct CPI 0.4% vs 0.3% expected; Fed Dec hike bets firmer",
+   "sources": [
+    "morning post record (verified earlier today)",
+    "HDFC Sky (hike expectations)"
+   ]
+  }
+ ],
+ "discrepancies_resolved": [
+  "Single-source items dropped: sector %, top gainer/loser moves (M&M +5.3% etc.), midcap/smallcap, breadth, PSU Bank +3%, FPI $5.68bn November inflow, India VIX, rupee close. HDFC Sky lists Eicher among gainers but ticker shows -0.48%. 'Autos and banks led' attributed to HDFC Sky. Day high not available."
+ ],
+ "seo_keywords": {
+  "primary": "Sensex Nifty closing",
+  "secondary": [
+   "Nifty 50",
+   "Brent crude",
+   "Fed rate hike",
+   "FPI flows",
+   "Diwali"
+  ]
+ },
+ "alt_text": [
+  "Cover: Sensex ends 773 points higher, Sensex 81,879, Nifty 25,255",
+  "Facts: Sensex +0.95%, Nifty +0.84%, early ~+1.5%, Brent ~$92",
+  "Why it matters: crude ~$92, US CPI 0.4%, prior closes",
+  "Split: closing reaction vs things to watch",
+  "Takeaways: gains pared, crude and Fed hike bets are swing factors"
+ ],
+ "status": "pending",
+ "caption": "Sensex ends 773 points higher as the post-Diwali rally pares its early gains 📈\n\nIndian markets closed higher on Nov 11, 2026: the Sensex gained 772.75 points (0.95%) to 81,879.40 and the Nifty 50 rose 210.40 points (0.84%) to 25,255.05. That is well below the ~1.5% jump seen in early trade, so the rally cooled through the session.\n\nWhy it matters: Brent crude near $92 a barrel, close to a two-month low, eases pressure on oil-importing India, while a hot US CPI print has firmed Fed December rate-hike bets and Wall Street fell overnight. Autos and banks led the gains, per HDFC Sky. FPI flows and crude are the next things to watch for the Sensex and Nifty.\n\nDo you think the Nifty can hold above 25,000 if the Fed turns more hawkish? Tell us below 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: HDFC Sky, Business Standard (Nov 11, 2026). Not investment advice.\n\n#StockMarketIndia #Sensex #Nifty50 #BrentCrude #FedRateHike\n"
+}
