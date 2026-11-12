@@ -1,0 +1,106 @@
+{
+ "cycle": "evening",
+ "headline": "FPIs pour ₹38,971 crore into Indian equities in week to Nov 6; Sensex/Nifty flat on Nov 12",
+ "original_publication": [
+  {
+   "source": "HDFC Sky",
+   "time": "2026-11-12 16:37 IST",
+   "url": "https://hdfcsky.com/news/market-close-report-today-november-12-2026-nifty-sensex-pause-the-party"
+  },
+  {
+   "source": "Business Standard",
+   "time": "2026-11-12 (updated 15:54 IST)",
+   "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html"
+  },
+  {
+   "source": "Outlook Money",
+   "time": "2026-11-09 15:59 IST",
+   "url": "https://www.outlookmoney.com/invest/fpi-investment-indian-equities-november-2026-reasons-behind-buying"
+  },
+  {
+   "source": "Kotak Neo",
+   "time": "2026-11-08 13:47 IST",
+   "url": "https://www.kotakneo.com/news/market-news/fii-inflows-surge-45960-crore-nifty-rally-86-percent-november-2026/"
+  }
+ ],
+ "official_announcement_url": null,
+ "verification_timestamp": "2026-11-12T19:00:00+05:30",
+ "importance_score": 72,
+ "shortlist": [
+  {
+   "story": "FPI inflow surge + Nov 12 close",
+   "score": 72
+  },
+  {
+   "story": "Nov 12 close alone",
+   "score": 60,
+   "rejection": "third Sensex/Nifty-level post in a row"
+  },
+  {
+   "story": "Q2 results / RBI-SEBI",
+   "score": 0,
+   "rejection": "stale or unverifiable results"
+  }
+ ],
+ "selection_reason": "FPI flow story has two-source verification and a different topic from the previous two index-close posts; Nov 12 close adds freshness.",
+ "key_facts": [
+  {
+   "fact": "Sensex 81,911.01 +31.61; Nifty 25,299.35 +44.30",
+   "sources": [
+    "HDFC Sky",
+    "Business Standard"
+   ]
+  },
+  {
+   "fact": "Midcap +0.9%/0.85%, smallcap +1.1%",
+   "sources": [
+    "HDFC Sky",
+    "Business Standard"
+   ]
+  },
+  {
+   "fact": "Realty top gainer (~4%)",
+   "sources": [
+    "HDFC Sky (3.7%)",
+    "Business Standard (~4%)"
+   ]
+  },
+  {
+   "fact": "FPI NSDL net buying Rs 38,971 cr week to Nov 6",
+   "sources": [
+    "Outlook Money",
+    "Kotak Neo"
+   ]
+  },
+  {
+   "fact": "Drivers: lower crude, AI-stock selloff, earnings; Brent ~$97",
+   "sources": [
+    "Outlook Money",
+    "Kotak Neo"
+   ]
+  }
+ ],
+ "discrepancies_resolved": [
+  "Dropped single-source: FPI $6.43bn Nov-to-date, Rs 12,563cr Wed, exchange-data Rs 45,960cr, DII selling, rupee 94.03, Nifty ~19x PE. October outflow differs (34,843 vs 45,162 cr) so omitted. Brent weekly fall 13% vs 16% so only ~$97 level used. Realty 3.7% vs ~4% stated as about 4%."
+ ],
+ "seo_keywords": {
+  "primary": "FPI buying Indian stocks",
+  "secondary": [
+   "Sensex",
+   "Nifty 50",
+   "NSDL",
+   "crude oil",
+   "Dalal Street",
+   "realty"
+  ]
+ },
+ "alt_text": [
+  "Cover: Foreign money rushing back, Rs 38,971 crore FPI buying",
+  "Facts: Nov 12 close Sensex 81,911, Nifty 25,299",
+  "Why: crude, AI rotation, earnings drive FPIs",
+  "Split: reaction vs what to watch",
+  "Takeaways on FPI flows"
+ ],
+ "status": "ready",
+ "caption": "FPI buying in Indian stocks: foreign money is rushing back into Dalal Street 📈\n\nForeign portfolio investors bought ₹38,971 crore of Indian equities in the week to Nov 6, per NSDL data. On Nov 12, 2026 the Sensex closed at 81,911.01 (+0.04%) and the Nifty 50 at 25,299.35 (+0.18%), with realty the top sector gainer and midcaps and smallcaps outperforming.\n\nWhy it matters: lower crude oil prices, a global selloff in AI-linked stocks and improving bank and auto earnings have pushed foreign investors toward Indian large-caps. Steady FPI inflows are a key driver for the Sensex, Nifty and the rupee.\n\nDo you think FPI buying can keep the Nifty rally going? Tell us below 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: HDFC Sky, Business Standard, Outlook Money, Kotak Neo (Nov 8-12, 2026). Not investment advice.\n\n#FPIFlows #StockMarketIndia #Nifty50 #Sensex #DalalStreet"
+}

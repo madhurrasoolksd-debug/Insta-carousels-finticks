@@ -1,0 +1,28 @@
+{
+  "sources": "HDFC Sky, Business Standard, Outlook Money, Kotak Neo (Nov 8-12, 2026)",
+  "slides": [
+    {"type":"cover","kicker":"FPI flows · Dalal Street","title":"Foreign money is *rushing back*","stat":"₹38,971","stat_label":"crore FPI net equity buying, week to Nov 6","stat_sub":"Per NSDL data, after weak October flows",
+     "compare":[{"k":"Sensex","v":"81,911","tone":"up"},{"k":"Nifty 50","v":"25,299","tone":"up"}]},
+    {"type":"facts","kicker":"What happened","title":"Nov 12 *closing* bell",
+     "stats":[
+      {"k":"Sensex","v":"81,911","d":"+31.61 pts, +0.04%","tone":"up"},
+      {"k":"Nifty 50","v":"25,299","d":"+44.30 pts, +0.18%","tone":"up"},
+      {"k":"Midcap 100","v":"+0.9%","d":"outperformed","tone":"up"},
+      {"k":"Smallcap 100","v":"+1.1%","d":"outperformed","tone":"up"}],
+     "points":["Indices ended **flat** after a volatile session","**Realty** was the top sector gainer, up about 4%","Buying in **financials** offset IT, FMCG and auto selling"]},
+    {"type":"facts","kicker":"Why it matters","title":"What is *pulling* FPIs in",
+     "stats":[
+      {"k":"FPI buying","v":"₹38,971Cr","d":"week to Nov 6, NSDL","tone":"up"},
+      {"k":"Brent","v":"~$97","d":"fell sharply that week","tone":"up"},
+      {"k":"Trigger 1","v":"Crude","d":"lower oil helps India","tone":"or"},
+      {"k":"Trigger 2","v":"AI rotation","d":"away from AI stocks","tone":"or"}],
+     "points":["Cheaper **crude** eases India's import bill","Global **AI-stock selloff** sent money looking elsewhere","Improving **bank and auto earnings** add support"]},
+    {"type":"split","kicker":"Market impact","title":"Reaction vs *what to watch*",
+     "actual":["**Sensex** 81,911, flat","**Nifty** 25,299, +0.18%","**Realty** led, up ~4%"],
+     "watch":["**FPI** flows next week","**Crude** price moves","**Q2** earnings updates"],
+     "note":"Closing figures for Nov 12, 2026. Watch items are not predictions. Not investment advice."},
+    {"type":"takeaways","kicker":"Key takeaways","title":"What investors should *know*",
+     "points":["**FPIs** bought ₹38,971 crore of Indian equities in the week to Nov 6","Falling **crude** and an **AI-stock selloff** drove the rotation into India","Thursday's close was **flat**, with realty and financials leading"],
+     "cta":"Follow for daily market news that matters"}
+  ]
+}
