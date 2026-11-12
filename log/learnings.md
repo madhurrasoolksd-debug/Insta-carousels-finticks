@@ -24,3 +24,8 @@
 - 2026-11-11: Angle 'gains pared from early +1.5%' differentiated the close post from the afternoon opening post; avoid a third Sensex/Nifty-level post tomorrow unless a major new development.
 
 - 2026-11-12: Two consecutive cycles (morning, afternoon) failed to find a verified fresh story; standard searches return Nov 12 2025 pages for 'Nov 12' queries. Use exact-phrase queries with '2026' plus specific events (e.g. named company + 'Q2 FY27') early, and spend at most 2 searches on generic market queries.
+
+- 2026-11-12 (evening review): Windsor insights still ~0 for all 12 posts (max reach 3, views 5 on Nov 11 afternoon; zero likes/saves/shares/follows anywhere). Data lag or tiny audience; no performance conclusions possible.
+- 2026-11-12: Evening search pattern 'Sensex Nifty closing <date> market close report' (extended) surfaced same-day HDFC Sky/Business Standard reports immediately; reuse it. A multi-day theme (FPI flows) with two older sources plus same-day close gave a verifiable non-repeat topic.
+- 2026-11-12: Cover stat with unit text ('₹38,971 Cr') wraps badly in the renderer; put the unit in stat_label instead.
+- 2026-11-12: Sandbox checkout may be a detached HEAD behind origin/main; use 'git fetch && git rebase origin/main && git push origin HEAD:main'. Do not run rm with a shell variable path (blocked); use "${F:?}".

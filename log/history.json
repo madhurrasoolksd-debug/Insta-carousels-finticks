@@ -183,5 +183,20 @@
     "url": null,
     "time": "2026-11-12T12:55:00+05:30",
     "status": "failed"
+  },
+  {
+    "date": "2026-11-12",
+    "cycle": "evening",
+    "story": "FPIs pour ₹38,971 crore into Indian equities in week to Nov 6; Sensex/Nifty flat on Nov 12",
+    "score": 72,
+    "topic_tags": [
+      "fpi",
+      "flows",
+      "crude-oil",
+      "nifty"
+    ],
+    "url": "https://www.instagram.com/p/DfpJguqiALt/",
+    "time": "2026-11-12T18:49:57+05:30",
+    "status": "published"
   }
 ]
