@@ -1,0 +1,6 @@
+{
+  "cycle": "afternoon",
+  "status": "failed",
+  "error": "No story could be verified as new (published since the Nov 11 evening cycle) for the Nov 12 afternoon cycle within the research budget (8 searches, 3 fetches used; 2 fetches failed with client_error). Searches returned mostly Nov 12 2025 pages or Nov 4-11 2026 pages. The only 2026 earnings story found (Lenskart Q2 FY27, Nov 5) is a week old. Publishing would have required stale or unverified figures, so nothing was posted.",
+  "verification_timestamp": "2026-11-12T12:55:00+05:30"
+}

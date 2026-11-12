@@ -22,3 +22,5 @@
 - 2026-11-11: Standard searches returned mostly 2025 pages for same-day close; one 'extended' search with the exact date plus 'market close report' found the Nov 11 2026 HDFC Sky/Business Standard reports. For evening cycles, use that query pattern early.
 - 2026-11-11: Same-day close figures were mostly single-source beyond index levels; sector/stock moves, FPI totals and breadth were dropped. Verified index levels were cross-checked by arithmetic against prior closes (81,879.40-772.75 = 81,106.65).
 - 2026-11-11: Angle 'gains pared from early +1.5%' differentiated the close post from the afternoon opening post; avoid a third Sensex/Nifty-level post tomorrow unless a major new development.
+
+- 2026-11-12: Two consecutive cycles (morning, afternoon) failed to find a verified fresh story; standard searches return Nov 12 2025 pages for 'Nov 12' queries. Use exact-phrase queries with '2026' plus specific events (e.g. named company + 'Q2 FY27') early, and spend at most 2 searches on generic market queries.
