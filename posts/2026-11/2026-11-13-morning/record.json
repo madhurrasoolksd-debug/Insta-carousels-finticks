@@ -1,0 +1,6 @@
+{
+  "cycle": "morning",
+  "status": "failed",
+  "error": "No story could be verified as new for the Nov 13 morning cycle within the research budget (8 searches, 3 fetches). Searches returned mostly Nov 13 2025 pages (stocks-to-watch, Zacks, Business Standard) or older 2026 pages. The only 2026-11-13 hit (Shillong Times: 'Markets extend gains for 3rd day; Sensex ends above 81,900 on FII inflows') could not be fetched and is single-source, and it conflicts with the logged Nov 12 flat close, so no figures were used. The DSIJ pre-market page also failed to load. Publishing would have required unverified or stale figures, so nothing was posted.",
+  "verification_timestamp": "2026-11-13T07:55:00+05:30"
+}

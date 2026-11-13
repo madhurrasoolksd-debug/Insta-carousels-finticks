@@ -29,3 +29,5 @@
 - 2026-11-12: Evening search pattern 'Sensex Nifty closing <date> market close report' (extended) surfaced same-day HDFC Sky/Business Standard reports immediately; reuse it. A multi-day theme (FPI flows) with two older sources plus same-day close gave a verifiable non-repeat topic.
 - 2026-11-12: Cover stat with unit text ('₹38,971 Cr') wraps badly in the renderer; put the unit in stat_label instead.
 - 2026-11-12: Sandbox checkout may be a detached HEAD behind origin/main; use 'git fetch && git rebase origin/main && git push origin HEAD:main'. Do not run rm with a shell variable path (blocked); use "${F:?}".
+
+- 2026-11-13: Third failed morning/afternoon cycle in 2 days. Search engine mostly returns 2025 pages for date queries; same-day pre-market pages (DSIJ, HDFC Sky, 5paisa) appear but WebFetch often errors. Next time spend the first 2 searches on site-specific queries (hdfcsky.com "gift nifty november 13 2026", kotakneo "pre-market 13 november 2026") and use allowed_domains.
