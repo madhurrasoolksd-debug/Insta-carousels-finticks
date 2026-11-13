@@ -1,0 +1,23 @@
+{
+  "sources": "MoSPI data via Down To Earth, Business Today, HDFC Sky (Nov 12-13, 2026)",
+  "slides": [
+    {"type":"cover","kicker":"India inflation · RBI","title":"Inflation just *crossed* RBI's line","stat":"6.09%","stat_label":"India retail inflation, October 2026","stat_sub":"Above the RBI's 6% upper limit",
+     "compare":[{"k":"September","v":"5.54%","tone":"or"},{"k":"October","v":"6.09%","tone":"dn"}]},
+    {"type":"facts","kicker":"What happened","title":"October *CPI* data",
+     "stats":[
+      {"k":"Headline CPI","v":"6.09%","d":"up from 5.54% in Sep","tone":"dn"},
+      {"k":"Food inflation","v":"8.94%","d":"up from 7.74% in Sep","tone":"dn"},
+      {"k":"RBI target","v":"4%","d":"band of 2% to 6%","tone":"or"},
+      {"k":"Data released","v":"Nov 12","d":"by MoSPI","tone":"or"}],
+     "points":["Highest in about **two years**, driven by food","Onions, garlic, ginger and lemons rose the most","Retail inflation is now above the **RBI ceiling**"]},
+    {"type":"chart","kicker":"Why it matters","title":"Inflation vs *RBI's band*","caption":"India CPI inflation, % year on year, vs RBI band","bars":[{"name":"RBI target","v":4.0},{"name":"CPI Sep","v":5.54},{"name":"RBI ceiling","v":6.0},{"name":"CPI Oct","v":6.09,"hl":true},{"name":"Food Sep","v":7.74},{"name":"Food Oct","v":8.94,"hl":true}],
+     "why":[{"h":"Rate worries","t":"Raises odds of tighter RBI policy"},{"h":"Household budgets","t":"Food costs squeeze consumption"},{"h":"Borrowers","t":"Loan rates may stay higher for longer"},{"h":"Investors","t":"Rate-sensitive banks and autos in focus"}]},
+    {"type":"split","kicker":"Market impact","title":"Reaction vs *what to watch*",
+     "actual":["**Sensex** 81,622, -0.35%","**Nifty** 25,172, -0.50%","**Nifty Bank** -0.83%"],
+     "watch":["**RBI** stance on rates","**Food** price trend","**Crude** near $95 Brent"],
+     "note":"Early-trade levels around 9:45 AM IST, Nov 13. Watch items are not predictions. Not investment advice."},
+    {"type":"takeaways","kicker":"Key takeaways","title":"What investors should *know*",
+     "points":["**Retail inflation** rose to 6.09% in October, above the RBI's 6% limit","**Food inflation** at 8.94% was the main driver of the jump","Sensex and Nifty opened **lower**, led by weakness in bank stocks"],
+     "cta":"Follow for daily market news that matters"}
+  ]
+}
