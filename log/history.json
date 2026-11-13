@@ -187,7 +187,7 @@
   {
     "date": "2026-11-12",
     "cycle": "evening",
-    "story": "FPIs pour ₹38,971 crore into Indian equities in week to Nov 6; Sensex/Nifty flat on Nov 12",
+    "story": "FPIs pour \u20b938,971 crore into Indian equities in week to Nov 6; Sensex/Nifty flat on Nov 12",
     "score": 72,
     "topic_tags": [
       "fpi",
@@ -208,5 +208,20 @@
     "url": null,
     "time": "2026-11-13T07:55:00+05:30",
     "status": "failed"
+  },
+  {
+    "date": "2026-11-13",
+    "cycle": "afternoon",
+    "story": "India retail inflation hits 6.09% in October, above RBI's 6% ceiling; Sensex/Nifty open lower",
+    "score": 80,
+    "topic_tags": [
+      "inflation",
+      "rbi",
+      "cpi",
+      "food-prices"
+    ],
+    "url": "https://www.instagram.com/p/DfrEauZAupK/",
+    "time": "2026-11-13T12:44:04+05:30",
+    "status": "published"
   }
 ]

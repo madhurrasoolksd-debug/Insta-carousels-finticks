@@ -1,0 +1,103 @@
+{
+ "cycle": "afternoon",
+ "headline": "India retail inflation hits 6.09% in October, above RBI's 6% ceiling",
+ "original_publication": [
+  {
+   "source": "Down To Earth (MoSPI data released Nov 12, 2026)",
+   "time": "2026-11-12/13",
+   "url": "https://downtoearth.org.in/economy/indias-retail-inflation-hits-two-year-high-of-609-as-food-prices-rise"
+  },
+  {
+   "source": "HDFC Sky open report",
+   "time": "2026-11-13 10:54 IST",
+   "url": "https://hdfcsky.com/news/bse-nse-sensex-november-13-2026-open-report-sensex-nifty-decline-as-inflation-weighs-financials-drag"
+  },
+  {
+   "source": "Business Today (Sept CPI 5.54%)",
+   "time": "2026-10-12",
+   "url": "https://www.businesstoday.in/latest/economy/story/indias-retail-inflation-rises-to-5-54-in-september-food-inflation-hits-7-74-561057-2026-10-12"
+  },
+  {
+   "source": "Adda247 (headline 6.09%, food 8.94%)",
+   "time": "2026-11-12/13",
+   "url": "https://currentaffairs.adda247.com/indias-retail-inflation-rises-to-6-09-in-october-2026-food-inflation-reaches-8-94/"
+  }
+ ],
+ "official_announcement_url": null,
+ "verification_timestamp": "2026-11-13T12:55:00+05:30",
+ "importance_score": 80,
+ "shortlist": [
+  {
+   "story": "India Oct CPI 6.09% above RBI ceiling + market reaction",
+   "score": 80
+  },
+  {
+   "story": "Nvidia CEO exit / Wall Street dip",
+   "score": 55,
+   "rejection": "single source, weak India relevance"
+  },
+  {
+   "story": "FPI November inflows",
+   "score": 50,
+   "rejection": "figures conflict across articles; topic posted Nov 12"
+  }
+ ],
+ "selection_reason": "Major macro data released Nov 12 after the last post, multi-source verified, new topic vs recent index/FPI posts.",
+ "key_facts": [
+  {
+   "fact": "Oct CPI 6.09%, Sep 5.54%",
+   "sources": [
+    "HDFC Sky",
+    "Down To Earth",
+    "Business Today",
+    "Adda247"
+   ]
+  },
+  {
+   "fact": "Food inflation 8.94% vs 7.74%",
+   "sources": [
+    "Down To Earth",
+    "Adda247",
+    "Business Today (Sep)"
+   ]
+  },
+  {
+   "fact": "Sensex 81,622.08 (-0.35%), Nifty 25,172.35 (-0.50%) ~9:45 IST",
+   "sources": [
+    "HDFC Sky (single source; prev close consistent with prior logged posts)"
+   ]
+  }
+ ],
+ "discrepancies_resolved": [
+  "Sept CPI 5.54% (Business Today) vs 5.5% (DTE rounding). Dropped single-source/conflicting: FPI Nov totals, rupee, rural/urban CPI, onion prices. Search budget exceeded by 1 (9 searches) due to a failed proxy call."
+ ],
+ "seo_keywords": {
+  "primary": "India retail inflation October 2026",
+  "secondary": [
+   "RBI",
+   "CPI",
+   "food inflation",
+   "Sensex",
+   "Nifty 50",
+   "MoSPI"
+  ]
+ },
+ "alt_text": [
+  "Cover: inflation 6.09% crosses RBI's line",
+  "Facts: Oct CPI and food inflation",
+  "Chart: CPI vs RBI band",
+  "Split: market reaction vs watch",
+  "Takeaways"
+ ],
+ "status": "published",
+ "published": {
+  "media_id": "18196168336398743",
+  "url": "https://www.instagram.com/p/DfrEauZAupK/",
+  "time": "2026-11-13T12:44:04+05:30"
+ },
+ "story": {
+  "status": "published",
+  "media_id": "18196994089398005"
+ },
+ "caption": "India retail inflation hits 6.09% in October, above the RBI's 6% limit \ud83d\udcca\n\nIndia's retail inflation (CPI) rose to 6.09% in October 2026 from 5.54% in September, a two-year high, with food inflation at 8.94% (7.74% in September), per MoSPI data released on Nov 12. In early trade on Nov 13 the Sensex was around 81,622 (-0.35%) and the Nifty 50 near 25,172 (-0.50%), with bank stocks leading the dip.\n\nWhy it matters: inflation above the RBI's 2-6% tolerance band raises the odds of tighter monetary policy, keeps loan rates higher for longer and squeezes household spending. Bank Nifty, autos and other rate-sensitive sectors are the ones to watch.\n\nDo you think the RBI will turn hawkish on food-driven inflation? Tell us below \ud83d\udc47\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: MoSPI data via Down To Earth, Business Today, HDFC Sky (Nov 12-13, 2026). Not investment advice.\n\n#IndiaInflation #RBI #Sensex #Nifty50 #StockMarketIndia\n"
+}
