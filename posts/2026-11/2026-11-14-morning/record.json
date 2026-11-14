@@ -1,0 +1,66 @@
+{
+ "cycle": "2026-11-14 morning",
+ "headline": "Sensex, Nifty post third straight weekly gain but fall on Friday as inflation, crude, rupee weigh",
+ "original_publication": [
+  {
+   "source": "HDFC Sky market close report",
+   "time": "2026-11-13 16:24 IST",
+   "url": "https://hdfcsky.com/news/market-close-report-today-november-13-2026-nifty-sensex-decline-as-inflation-oil-weigh"
+  },
+  {
+   "source": "HDFC Sky rupee close",
+   "time": "2026-11-13 16:26 IST",
+   "url": "https://hdfcsky.com/news/rupee-falls-8-paise-to-close-at-94-20-against-us-dollar"
+  }
+ ],
+ "official_announcement_url": null,
+ "verification_timestamp": "2026-11-14T07:55:00+05:30",
+ "importance_score": 70,
+ "shortlist": [
+  {
+   "story": "Weekly wrap + Friday sell-off (inflation, crude, rupee)",
+   "score": 70
+  },
+  {
+   "story": "Week-ahead preview",
+   "score": 0,
+   "rejected": "no verified 2026 sources found; search returned 2025 pages"
+  }
+ ],
+ "selection_reason": "Saturday, markets shut: weekly wrap is the freshest verified angle; differs from prior FPI-flow and CPI posts (different main topic: weekly wrap).",
+ "key_facts": {
+  "sensex_close": "81,592.45 -318.56 (-0.39%) [HDFC Sky; arithmetic vs Nov 12 close 81,911.01 in repo]",
+  "nifty_close": "25,144.30 -155.05 (-0.61%) [HDFC Sky; arithmetic vs 25,299.35]",
+  "weekly": "Sensex +0.7%, Nifty +0.5% [HDFC Sky; verified by arithmetic vs Nov 6 closes 81,028.02/25,030.35]",
+  "breadth": "BSE 1,763 up/2,328 down; all sectors but FMCG fell [HDFC Sky only]",
+  "cpi": "6.09% Oct [MoSPI via prior post, HDFC Sky]",
+  "rupee": "94.20 / 94.24 [HDFC Sky x2]",
+  "brent": "~95.5-95.7 [HDFC Sky x2]",
+  "us_yields": "higher, Fed hike bets [HDFC Sky only, stated qualitatively]"
+ },
+ "discrepancies_resolved": [
+  "Hindi HDFC Sky headline says Nifty 25,139; English 25,144.30 confirmed by arithmetic",
+  "Rupee 94.20 (provisional) vs 94.24 -> stated ~94.2",
+  "Brent 95.47 vs 95.7 -> ~$95.5",
+  "Breadth/sector data single-outlet; US 10-yr 5.11%, 85% Fed hike odds, FPI >$8bn and Nifty IT weekly -3.2% dropped as single-source"
+ ],
+ "seo_keywords": {
+  "primary": "Sensex Nifty weekly gain",
+  "secondary": [
+   "Nifty 50",
+   "rupee",
+   "inflation",
+   "crude oil",
+   "Dalal Street"
+  ]
+ },
+ "alt_text": [
+  "Cover: Sensex +0.7% this week, Friday -0.39%",
+  "Friday close facts",
+  "Four pressure points",
+  "Market impact and watchlist",
+  "Key takeaways"
+ ],
+ "status": "ready",
+ "caption": "Sensex and Nifty post a third straight weekly gain, but Friday's fall shows the pressure 📊\n\nThe Sensex gained about 0.7% and the Nifty 50 about 0.5% in the week to Nov 13, 2026. On Friday the Sensex closed at 81,592.45 (-0.39%) and the Nifty at 25,144.30 (-0.61%), with every sector except FMCG ending lower.\n\nWhy it matters: retail inflation at 6.09% is above the RBI's 6% limit, crude oil is near $95 a barrel, the rupee is around 94.2 per dollar and US yields are higher. That weighs on rate-sensitive sectors like banks, realty and autos, even as foreign buying supports the market.\n\nNext week, crude oil, the rupee and US Treasury yields are the key things to watch as Dalal Street reopens on Monday.\n\nDo you think the Nifty can keep its weekly winning run going? Tell us below 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: HDFC Sky (Nov 13, 2026), MoSPI data. Not investment advice.\n\n#StockMarketIndia #Sensex #Nifty50 #WeeklyMarketWrap #IndianRupee\n"
+}

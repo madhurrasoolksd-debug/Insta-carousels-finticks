@@ -1,0 +1,122 @@
+{
+ "sources": "HDFC Sky (Nov 13, 2026), MoSPI data, exchange closing data",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Weekly wrap · Nov 9–13",
+   "title": "Three weeks up. Friday *pushed back*.",
+   "stat": "+0.7%",
+   "stat_label": "Sensex this week",
+   "stat_sub": "Nifty +0.5% · third weekly gain",
+   "compare": [
+    {
+     "k": "Sensex · Fri",
+     "v": "−0.39%",
+     "tone": "dn"
+    },
+    {
+     "k": "Nifty · Fri",
+     "v": "−0.61%",
+     "tone": "dn"
+    }
+   ]
+  },
+  {
+   "type": "facts",
+   "kicker": "What happened",
+   "title": "A *weak* Friday close",
+   "stats": [
+    {
+     "k": "Sensex · Nov 13",
+     "v": "81,592",
+     "d": "▼ 318.56 pts (−0.39%)",
+     "tone": "dn"
+    },
+    {
+     "k": "Nifty 50 · Nov 13",
+     "v": "25,144",
+     "d": "▼ 155.05 pts (−0.61%)",
+     "tone": "dn"
+    },
+    {
+     "k": "Sensex · week",
+     "v": "+0.7%",
+     "d": "vs 81,028 on Nov 6",
+     "tone": "or"
+    },
+    {
+     "k": "Nifty · week",
+     "v": "+0.5%",
+     "d": "vs 25,030 on Nov 6",
+     "tone": "or"
+    }
+   ],
+   "points": [
+    "**Every sector fell except FMCG**; auto, metal and realty lost about 1%",
+    "**2,328 BSE stocks fell** against 1,763 that rose"
+   ]
+  },
+  {
+   "type": "facts",
+   "kicker": "Why it matters",
+   "title": "Four *pressure* points",
+   "stats": [
+    {
+     "k": "Retail inflation",
+     "v": "6.09%",
+     "d": "Above RBI's 6% limit",
+     "tone": "dn"
+    },
+    {
+     "k": "Rupee · Nov 13",
+     "v": "~94.2",
+     "d": "per US dollar",
+     "tone": "dn"
+    },
+    {
+     "k": "Brent crude",
+     "v": "~$95.5",
+     "d": "per barrel",
+     "tone": "or"
+    },
+    {
+     "k": "US Treasury yields",
+     "v": "Higher",
+     "d": "Fed hike bets rising",
+     "tone": "dn"
+    }
+   ],
+   "points": [
+    "Higher yields and inflation weigh on **banks, realty and autos**",
+    "**Foreign buying** was not enough to offset these worries on Friday"
+   ]
+  },
+  {
+   "type": "split",
+   "kicker": "Market impact",
+   "title": "Cautious *close*, solid week",
+   "actual": [
+    "**Broad fall:** all sectors but FMCG ended lower",
+    "**Weak breadth:** more stocks fell than rose",
+    "**Rupee slipped** to about 94.2 per dollar"
+   ],
+   "watch": [
+    "**Crude and Gulf tensions** keep oil prices volatile",
+    "**US yields and Fed** rate-hike expectations",
+    "**Rupee** near 94: analysts see a 93.85–94.60 range"
+   ],
+   "note": "Forward-looking items are things to watch, not predictions. Not investment advice."
+  },
+  {
+   "type": "takeaways",
+   "kicker": "Key takeaways",
+   "title": "What investors should *know*",
+   "points": [
+    "Sensex and Nifty posted a **third straight weekly gain** despite Friday's fall",
+    "Inflation above **6%**, firm crude and a weak rupee hit rate-sensitive sectors",
+    "Watch **crude, the rupee and US yields** as markets reopen on Monday"
+   ],
+   "cta": "Follow for daily market news that matters"
+  }
+ ]
+}
