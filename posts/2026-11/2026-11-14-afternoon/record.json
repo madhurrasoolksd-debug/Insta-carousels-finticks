@@ -1,0 +1,24 @@
+{
+ "cycle": "2026-11-14 afternoon",
+ "status": "failed",
+ "error": "No verified, fresh, non-repeat story found within research budget (8 searches). Saturday, markets shut.",
+ "verification_timestamp": "2026-11-14T13:00:00+05:30",
+ "shortlist": [
+  {
+   "story": "Weekly rupee/Friday wrap",
+   "score": 0,
+   "rejected": "duplicate of this morning's published weekly-wrap post (rupee, crude, inflation)"
+  },
+  {
+   "story": "Hawkish Fed / dollar index 19-month high 103.17 / US 10y 5.135% / Dec hike odds 85-89%",
+   "score": 55,
+   "rejected": "HDFC Sky (Nov 14 08:17 IST) is the only source for DXY, yields and odds; Logan 'two more hikes' is confirmed (investinglive Nov 10, Dow Jones Oct 31) but not new; Dec odds differ (73% on Oct 30)"
+  },
+  {
+   "story": "Week-ahead IPO/RBI/SEBI",
+   "score": 0,
+   "rejected": "searches returned 2025 or stale (Oct 17) pages"
+  }
+ ],
+ "selection_reason": "None met freshness + two-source verification; not publishing rather than fabricating."
+}
