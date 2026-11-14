@@ -1,0 +1,77 @@
+{
+ "sources": "AP, SEC filing (Nvidia 8-K), Washington Post/KRMG index tables (Nov 12–13, 2026)",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Wall Street · Nov 13",
+   "title": "Nvidia's CEO *quits*. Nasdaq still rises.",
+   "stat": "+2.3%",
+   "stat_label": "Nasdaq this week",
+   "stat_sub": "S&P 500 +2.5% · first weekly gain since Oct",
+   "compare": [
+    {"k": "Nasdaq · Fri", "v": "−0.9%", "tone": "dn"},
+    {"k": "S&P 500 · Fri", "v": "−0.4%", "tone": "dn"}
+   ]
+  },
+  {
+   "type": "facts",
+   "kicker": "What happened",
+   "title": "Huang *resigns*, chips slide",
+   "stats": [
+    {"k": "S&P 500", "v": "7,561.67", "d": "▼ 0.4% on Friday", "tone": "dn"},
+    {"k": "Nasdaq", "v": "25,136", "d": "▼ 0.9% on Friday", "tone": "dn"},
+    {"k": "Dow Jones", "v": "52,348", "d": "▲ 0.1% on Friday", "tone": "up"},
+    {"k": "AMD · Fri", "v": "−8.8%", "d": "Broadcom −4.8%", "tone": "dn"}
+   ],
+   "points": [
+    "**Nvidia said Nov 12** CEO Jensen Huang resigned, effective immediately",
+    "**CFO Colette Kress** is interim CEO; Nvidia fell 2% on Friday"
+   ]
+  },
+  {
+   "type": "chart",
+   "kicker": "Why it matters",
+   "title": "A *winning* week anyway",
+   "caption": "US index gains, week to Nov 13, 2026 (%)",
+   "bars": [
+    {"name": "S&P 500", "v": 2.5, "hl": true},
+    {"name": "Nasdaq", "v": 2.3, "hl": false},
+    {"name": "Dow", "v": 2.1, "hl": false},
+    {"name": "Russell 2000", "v": 1.3, "hl": false}
+   ],
+   "why": [
+    {"h": "AI bet", "t": "Tech drives much of Wall Street's swings"},
+    {"h": "Brent crude", "t": "$95.84 a barrel, vs about $72 in Feb"},
+    {"h": "US yields", "t": "10-year rose to 5.15% from 5.10%"},
+    {"h": "Fed", "t": "Economists expect a hike in December"}
+   ]
+  },
+  {
+   "type": "split",
+   "kicker": "Market impact",
+   "title": "Calm *index*, shaky chips",
+   "actual": [
+    "**S&P 500** +2.5%, best week since August",
+    "**Chip stocks** AMD, Broadcom fell hard",
+    "**Yields** edged up; 10-year at 5.15%"
+   ],
+   "watch": [
+    "**Nvidia** permanent CEO search",
+    "**Fed** December rate decision",
+    "**Brent** and Iran headlines"
+   ],
+   "note": "Forward-looking items are things to watch, not predictions. Not investment advice."
+  },
+  {
+   "type": "takeaways",
+   "kicker": "Key takeaways",
+   "title": "What investors should *know*",
+   "points": [
+    "Nvidia's CEO **resigned** and chip stocks slid, yet US indexes posted a weekly gain",
+    "**Oil near $96** and a 5.15% US 10-year yield keep global rate worries alive",
+    "Watch **Nvidia, US yields and crude**; they set the tone for Indian markets on Monday"
+   ],
+   "cta": "Follow for daily market news that matters"
+  }
+ ]
+}
