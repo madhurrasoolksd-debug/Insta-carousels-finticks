@@ -35,3 +35,6 @@
 - 2026-11-14: Site-specific query with allowed_domains (hdfcsky.com, kotakneo.com, upstox.com) plus 'market close report today <date>' surfaced same-day 2026 pages immediately; generic date queries returned 2025 pages. Weekly % moves can be verified by arithmetic against prior closes stored in the repo. Saturday week-ahead searches found no 2026 sources; weekly-wrap angle worked.
 
 - 2026-11-14 (afternoon): Saturday afternoon after a weekly-wrap morning post leaves little fresh material; 8-search budget ran out. HDFC Sky allowed_domains searches work only with a single domain (multi-domain lists were rejected by the proxy). A weekend cycle should plan a non-market angle (global policy, IPO calendar) from the first search.
+
+- 2026-11-14 (evening review): Windsor insights still ~0 for all 14 posts (max reach 4, views 7; zero likes/saves/shares/follows). Trial-plan data lag or tiny audience; no performance conclusions possible.
+- 2026-11-14 (evening): On a Saturday, the extended search 'Wall Street stocks Friday Dow S&P 500 Nasdaq weekly close Nov 13' surfaced same-day AP/KRMG pages immediately; global stories (US close, corporate news with SEC 8-K primary source) fill weekend gaps. Check publication dates on fetched pages: one Wall Street hit was from Oct 17 and had to be discarded. Research ran 1 search over budget; plan the 8 searches to avoid that.

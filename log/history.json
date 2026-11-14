@@ -187,7 +187,7 @@
   {
     "date": "2026-11-12",
     "cycle": "evening",
-    "story": "FPIs pour \u20b938,971 crore into Indian equities in week to Nov 6; Sensex/Nifty flat on Nov 12",
+    "story": "FPIs pour ₹38,971 crore into Indian equities in week to Nov 6; Sensex/Nifty flat on Nov 12",
     "score": 72,
     "topic_tags": [
       "fpi",
@@ -248,5 +248,21 @@
     "url": null,
     "time": "2026-11-14T13:00:00+05:30",
     "status": "failed"
+  },
+  {
+    "date": "2026-11-14",
+    "cycle": "evening",
+    "story": "Nvidia CEO Jensen Huang resigns; Wall Street still posts weekly gain",
+    "score": 76,
+    "topic_tags": [
+      "nvidia",
+      "ai-stocks",
+      "wall-street",
+      "fed",
+      "crude-oil"
+    ],
+    "url": "https://www.instagram.com/p/DfuScycjLul/",
+    "time": "2026-11-14T18:44:20+05:30",
+    "status": "published"
   }
 ]
