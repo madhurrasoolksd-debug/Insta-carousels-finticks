@@ -31,3 +31,5 @@
 - 2026-11-12: Sandbox checkout may be a detached HEAD behind origin/main; use 'git fetch && git rebase origin/main && git push origin HEAD:main'. Do not run rm with a shell variable path (blocked); use "${F:?}".
 
 - 2026-11-13: Third failed morning/afternoon cycle in 2 days. Search engine mostly returns 2025 pages for date queries; same-day pre-market pages (DSIJ, HDFC Sky, 5paisa) appear but WebFetch often errors. Next time spend the first 2 searches on site-specific queries (hdfcsky.com "gift nifty november 13 2026", kotakneo "pre-market 13 november 2026") and use allowed_domains.
+
+- 2026-11-14: Site-specific query with allowed_domains (hdfcsky.com, kotakneo.com, upstox.com) plus 'market close report today <date>' surfaced same-day 2026 pages immediately; generic date queries returned 2025 pages. Weekly % moves can be verified by arithmetic against prior closes stored in the repo. Saturday week-ahead searches found no 2026 sources; weekly-wrap angle worked.

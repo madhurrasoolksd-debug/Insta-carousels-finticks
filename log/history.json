@@ -187,7 +187,7 @@
   {
     "date": "2026-11-12",
     "cycle": "evening",
-    "story": "FPIs pour \u20b938,971 crore into Indian equities in week to Nov 6; Sensex/Nifty flat on Nov 12",
+    "story": "FPIs pour ₹38,971 crore into Indian equities in week to Nov 6; Sensex/Nifty flat on Nov 12",
     "score": 72,
     "topic_tags": [
       "fpi",
@@ -222,6 +222,21 @@
     ],
     "url": "https://www.instagram.com/p/DfrEauZAupK/",
     "time": "2026-11-13T12:44:04+05:30",
+    "status": "published"
+  },
+  {
+    "date": "2026-11-14",
+    "cycle": "morning",
+    "story": "Sensex, Nifty post third straight weekly gain but fall on Friday as inflation, crude, rupee weigh",
+    "score": 70,
+    "topic_tags": [
+      "weekly-wrap",
+      "nifty",
+      "rupee",
+      "crude-oil"
+    ],
+    "url": "https://www.instagram.com/p/DftG5AngrsG/",
+    "time": "2026-11-14T07:44:04+05:30",
     "status": "published"
   }
 ]
