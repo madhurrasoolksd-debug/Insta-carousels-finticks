@@ -1,0 +1,78 @@
+{
+ "cycle": "2026-11-14 evening",
+ "headline": "Nvidia CEO Jensen Huang resigns; Wall Street still posts weekly gain",
+ "original_publication": [
+  {
+   "source": "Nvidia 8-K (SEC)",
+   "time": "2026-11-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+  },
+  {
+   "source": "AP (via Journal-News)",
+   "time": "2026-11-13",
+   "url": "https://www.journal-news.com/nation-world/stocks-fall-but-wall-street-notches-a-winning-week-after-several-turbulent-days/article_8bf48295-122a-5164-8207-4fd5dd74c5ff.html"
+  },
+  {
+   "source": "KRMG/AP index table",
+   "time": "2026-11-13",
+   "url": "https://krmg.com/2026/11/13/how-major-us-stock-indexes-fared-friday-11-13-2026/"
+  }
+ ],
+ "official_announcement_url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+ "verification_timestamp": "2026-11-14T18:00:00+05:30",
+ "importance_score": 76,
+ "shortlist": [
+  {
+   "story": "Nvidia CEO resignation + Wall Street weekly gain",
+   "score": 76
+  },
+  {
+   "story": "Week-ahead India / RBI-SEBI",
+   "score": 0,
+   "rejected": "no verified 2026 sources found"
+  },
+  {
+   "story": "Jio IPO",
+   "score": 0,
+   "rejected": "listed Oct 28, old"
+  },
+  {
+   "story": "Wall St Oct 17 selloff article",
+   "score": 0,
+   "rejected": "stale (Oct 2026)"
+  }
+ ],
+ "selection_reason": "Saturday, markets shut: biggest verified global story since last post; new topic vs Indian-market posts; India link via crude, US yields, Fed.",
+ "key_facts": {
+  "indices": "S&P 7,561.67 -0.4% wk +2.5%; Nasdaq 25,136.27 -0.9% wk +2.3%; Dow 52,347.55 +0.1% wk +2.1%; Russell 2,790.49 wk +1.3% [AP + KRMG table]",
+  "resignation": "Huang resigned as CEO and director effective immediately, Kress interim CEO [SEC 8-K primary; AP]",
+  "brent": "$95.84, ~$72 late Feb [AP only]",
+  "yields": "10y 5.15% from 5.10% [AP only]",
+  "amd_broadcom": "AMD -8.8%, Broadcom -4.8%, Nvidia -2% [AP; mlq.ai snippet confirms AMD/Nvidia fell]",
+  "fed": "December hike widely expected [AP]"
+ },
+ "discrepancies_resolved": [
+  "Nvidia market-value loss figures varied ($192B, $400B, $470B, ~$600B) across outlets/time points - omitted",
+  "Research budget exceeded by 1 search (9 vs 8)",
+  "Brent, yields, AMD/Broadcom moves single-source (AP), attributed to AP"
+ ],
+ "seo_keywords": {
+  "primary": "Nvidia CEO Jensen Huang resigns",
+  "secondary": [
+   "Wall Street",
+   "Nasdaq",
+   "S&P 500",
+   "Fed rate hike",
+   "Nifty 50"
+  ]
+ },
+ "alt_text": [
+  "Cover: Nasdaq +2.3% this week despite Nvidia CEO exit",
+  "US index closes and chip moves",
+  "Weekly US index gains bar chart and drivers",
+  "Market impact: actual vs watch",
+  "Key takeaways"
+ ],
+ "status": "ready",
+ "caption": "Nvidia CEO Jensen Huang resigns, yet Wall Street ends the week higher 📈\n\nNvidia said on Nov 12, 2026 that CEO Jensen Huang resigned effective immediately, with CFO Colette Kress named interim CEO. Chip stocks slid on Friday (AMD -8.8%, Broadcom -4.8%) and the Nasdaq fell 0.9% to 25,136, but the S&P 500 still gained 2.5% for the week, its first weekly gain since October.\n\nWhy it matters: AI stocks drive much of Wall Street's swings, Brent crude is near $96 a barrel and the US 10-year yield rose to 5.15%, with economists expecting a Fed rate hike in December. These global cues are what Indian investors and the Nifty 50 will watch when markets reopen on Monday.\n\nDo you think the Nvidia leadership change is a one-week shock or a lasting risk for the AI trade? Tell us below 👇\n\nFollow @finticksmalayalam for daily stock market news that matters.\n\nSources: AP, SEC filing by Nvidia, Washington Post (Nov 12-13, 2026). Not investment advice.\n\n#StockMarketIndia #Nifty50 #Nvidia #WallStreet #AIStocks\n"
+}
